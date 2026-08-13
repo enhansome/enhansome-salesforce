@@ -1,0 +1,342 @@
+{
+  "items": [
+    {
+      "description": "Awesome is awesome project started by Sindre Sorhus who is most popular person on Github. He created a project to list down coolest of links bookmarked in your machines and organized them together by compiling them at one place. Later, this projects caught fire and developers community around the world started writing awesome pages (dedicated to their favorite technology).",
+      "items": [],
+      "title": "What is Awesome Salesforce ?"
+    },
+    {
+      "description": "Read the awesome manifesto and ensure your list complies.",
+      "items": [],
+      "title": "What makes for an awesome list?"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "HaoIDE",
+          "description": "Sublime Plugin for Force.com",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-30T05:08:25Z",
+            "owner": "xjsender",
+            "repo": "haoide",
+            "stars": 198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ApexMate",
+          "description": "Apex Plugin for TextMate.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Objective-C",
+            "last_commit": "2016-09-20T02:56:55Z",
+            "owner": "superfell",
+            "repo": "ApexMate",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Atom Plugin",
+          "description": "MavensMate plugin for building Salesforce.com/Force.com/Salesforce1 applications inside GitHub's Atom text editor",
+          "children": []
+        },
+        {
+          "node_type": "group",
+          "title": "Visual Studio Code",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Salesforce Extensions for VS Code",
+              "description": "are the official Salesforce VS Code extensions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T04:02:41Z",
+                "owner": "forcedotcom",
+                "repo": "salesforcedx-vscode",
+                "stars": 1033
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ForceCode",
+              "description": "is a Visual Studio Code extension for Salesforce development",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2025-04-29T11:28:12Z",
+                "owner": "celador",
+                "repo": "ForceCode",
+                "stars": 163
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xysfdx",
+              "description": "is a Visual Studio Code extension for Salesforce SFDX Development.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2025-02-08T07:37:41Z",
+                "owner": "exiahuang",
+                "repo": "xysfdx",
+                "stars": 11
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Plugins for Salesforce"
+    },
+    {
+      "description": "Read cruciated list of Awesome-list-of-browser-extensions-of-salesforce",
+      "items": [],
+      "title": "Browser extensions for Salesforce"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Apex Commons",
+          "description": "Common Apex Library supporting Apex Enterprise Patterns and much more! Must deploy ApexMocks before deploying this library.Also see MavensMate Templates",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Apex",
+            "last_commit": "2026-08-03T19:11:30Z",
+            "owner": "apex-enterprise-patterns",
+            "repo": "fflib-apex-common",
+            "stars": 1010
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apex mocks",
+          "description": "ApexMocks is a mocking framework for the Force.com Apex language.It derives it's inspiration from the well known Java mocking framework Mockito",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Apex",
+            "last_commit": "2026-07-24T17:39:54Z",
+            "owner": "apex-enterprise-patterns",
+            "repo": "fflib-apex-mocks",
+            "stars": 460
+          }
+        }
+      ],
+      "title": "Packages and Libraries supporting salesforce"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Workbench",
+          "description": "Workbench is a powerful, web-based suite of tools designed for administrators and developers to interact with Salesforce.com organizations via the Force.com APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-25T02:38:06Z",
+            "owner": "forceworkbench",
+            "repo": "forceworkbench",
+            "stars": 536
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SoqlXplorer",
+          "description": "SoqlXplorer is an awesome tool for developers using the Salesforce.com platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2023-08-20T17:29:29Z",
+            "owner": "superfell",
+            "repo": "SoqlX",
+            "stars": 279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Analytics-Cloud-Dataset-Utils",
+          "description": "Utility to load external data into Analytics Cloud datasets, and transform existing datasets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-02T18:17:18Z",
+            "owner": "forcedotcom",
+            "repo": "Analytics-Cloud-Dataset-Utils",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "force-dev-tool",
+          "description": "Command line tool supporting the Force.com development lifecycle.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-10-23T13:21:47Z",
+            "owner": "amtrack",
+            "repo": "force-dev-tool",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "soql-parser-js",
+          "description": "JavaScript library for parsing SOQL queries, composing SOQL queries, and formatting SOQL queries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-06T14:49:39Z",
+            "owner": "jetstreamapp",
+            "repo": "soql-parser-js",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cinnamon",
+          "description": "Cinnamon is a Force.com app that enables you to build and run Selenium tests to validate custom UI pages with Visualforce/Javascript in your Salesforce org.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Apex",
+            "last_commit": "2018-06-26T20:06:21Z",
+            "owner": "forcedotcom",
+            "repo": "cinnamon",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sweet.apex",
+          "description": "Sweet.apex is the next generation of Apex development, transpiling Sweet Apex(a feature-rich Apex-like code) to Apex classes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-08-12T22:35:57Z",
+            "owner": "PropicSignifi",
+            "repo": "Sweet.apex",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Salesforce1-Dev-Guide-Setup-Package",
+          "description": "Salesforce1-Dev-Guide-Setup-Package",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2018-06-26T20:06:19Z",
+            "owner": "forcedotcom",
+            "repo": "Salesforce1-Dev-Guide-Setup-Package",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Push Notification Plugin for iOS and Android",
+          "description": "Cordova Push Notifications Plugin for Android, iOS, WP8 and Amazon Fire OS",
+          "children": []
+        }
+      ],
+      "title": "Developer Utilities"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Mobile Development with Salesforce"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Salesfoce MobileSDK for iOS",
+          "description": "If you'd like to work with the source code of the SDK itself, you've come to the right place! You can browse sample app source code and debug down through the layers to get a feel for how everything works under the covers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2026-08-12T21:36:52Z",
+            "owner": "forcedotcom",
+            "repo": "SalesforceMobileSDK-iOS",
+            "stars": 555
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Salesfoce MobileSDK for Andriod",
+          "description": "Source repository for the Salesforce Mobile SDK for Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T23:40:07Z",
+            "owner": "forcedotcom",
+            "repo": "SalesforceMobileSDK-Android",
+            "stars": 361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Salesfoce MobileSDK for Windows",
+          "description": "Build the project normally in Visual Studio; everything should build fine. If you wish to create a new project and not use the NuGet versions of the core libraries, simply create a new project with the template, remove the NuGet reference and add references to Salesforce.SDK.Core, Salesforce.SDK.Store (for windows projects) or Salesforce.SDK.Phone for phone projects.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-02-12T08:35:54Z",
+            "owner": "forcedotcom",
+            "repo": "SalesforceMobileSDK-Windows",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Mobile SDK"
+    },
+    {
+      "description": "Google Polymer Pack : Try Designer | Github Repo | Watch Designer Video | Build your Mobile App with a set of new HTML tags that ease the development of salesforce driven user interfaces. It's based on the Google’s Polymer framework and uses Web Components to provide fundamental building blocks for creating an Offline enabled application with Salesforce Mobile SDK\nAngularJS Pack : Get Started | Github Repo | Design and build apps that separate UI, logic, and data using Mobile Pack for AngularJS. Google's AngularJS lets you reap the benefits of a Model-View-Control architecture in your JavaScript code and utilize advanced features like reusable components and dependency injection.",
+      "items": [],
+      "title": "Salesforce Mobile Packs with Javascript Libraries"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:33:04.315Z",
+    "original_repository": "mailtoharshit/awesome-salesforce",
+    "original_repository_sha": "951c3c9b661e5f64a24ca941d41c9d9176bc0f26",
+    "enhanced_repository": "enhansome/enhansome-salesforce",
+    "enhanced_repository_description": null,
+    "title": "Awesome A Note on Repo AWSomeness with stars"
+  }
+}
