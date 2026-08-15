@@ -60,7 +60,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-14T14:12:56Z",
+                "last_commit": "2026-08-15T04:12:36Z",
                 "owner": "forcedotcom",
                 "repo": "salesforcedx-vscode",
                 "stars": 1033
@@ -278,7 +278,7 @@
           "repo_info": {
             "archived": false,
             "language": "Objective-C",
-            "last_commit": "2026-08-14T01:13:11Z",
+            "last_commit": "2026-08-14T23:14:17Z",
             "owner": "forcedotcom",
             "repo": "SalesforceMobileSDK-iOS",
             "stars": 555
@@ -292,7 +292,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-14T00:59:42Z",
+            "last_commit": "2026-08-15T04:55:37Z",
             "owner": "forcedotcom",
             "repo": "SalesforceMobileSDK-Android",
             "stars": 361
@@ -332,7 +332,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T14:19:50.307Z",
+    "last_updated": "2026-08-15T13:42:06.916Z",
     "original_repository": "mailtoharshit/awesome-salesforce",
     "original_repository_sha": "951c3c9b661e5f64a24ca941d41c9d9176bc0f26",
     "enhanced_repository": "enhansome/enhansome-salesforce",
