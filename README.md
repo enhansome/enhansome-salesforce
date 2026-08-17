@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/Spring19Logo.gif" align="right" width="220" height="400">
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,373 | 🐛 100 | 📅 2026-06-30
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,821 | 🐛 100 | 📅 2026-06-30
 
 [![Join the chat at https://gitter.im/mailtoharshit/awesome-salesforce](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mailtoharshit/awesome-salesforce?utm_source=badge\&utm_medium=badge\&utm_campaign=pr-badge\&utm_content=badge)
 
 > Useful resources for creating apps with [Salesforce](https://login.salesforce.com/)
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 496,373 | 🐛 100 | 📅 2026-06-30 list thing. You might also like to read complete [awesome-list](https://github.com/sindresorhus/awesome) ⭐ 496,373 | 🐛 100 | 📅 2026-06-30.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 496,821 | 🐛 100 | 📅 2026-06-30 list thing. You might also like to read complete [awesome-list](https://github.com/sindresorhus/awesome) ⭐ 496,821 | 🐛 100 | 📅 2026-06-30.*
 
 ## What is Awesome Salesforce ?
 
@@ -35,7 +35,7 @@ Each repo listed meets at least one of the following requirements:
 
 100+ stars for community repos is not a strict requirement, it only serves as a guideline for the initial compilation.  If you can vouch for the awesomeness of a repo with < 100 stars and you can explain why it should be listed, please submit a pull request.
 
-Pull requests might be left open for a period of time to let the community chime in and vouch for it.  An official repo from [aws](https://github.com/aws) or [awslabs](https://github.com/awslabs) can be removed if the community wishes.  Check out the [awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 496,373 | 🐛 100 | 📅 2026-06-30.
+Pull requests might be left open for a period of time to let the community chime in and vouch for it.  An official repo from [aws](https://github.com/aws) or [awslabs](https://github.com/awslabs) can be removed if the community wishes.  Check out the [awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 496,821 | 🐛 100 | 📅 2026-06-30.
 
 Read Related Awesome Pages :
 
@@ -89,7 +89,7 @@ The previously popular Mavensmate editor(<http://mavensmate.com/>) has now cease
 * [Eclipse Plugin](http://media.developerforce.com/force-ide/eclipse42) - Based on Eclipse Platform, supported and packaged by Salesforce.com
 * [Atom Plugin](https://github.com/joeferraro/MavensMate-Atom)- MavensMate plugin for building Salesforce.com/Force.com/Salesforce1 applications inside GitHub's Atom text editor
 * Visual Studio Code
-  * [Salesforce Extensions for VS Code](https://github.com/forcedotcom/salesforcedx-vscode) ⭐ 1,033 | 🐛 84 | 🌐 TypeScript | 📅 2026-08-16 are the official Salesforce VS Code extensions.
+  * [Salesforce Extensions for VS Code](https://github.com/forcedotcom/salesforcedx-vscode) ⭐ 1,033 | 🐛 86 | 🌐 TypeScript | 📅 2026-08-17 are the official Salesforce VS Code extensions.
   * [ForceCode](https://github.com/celador/ForceCode) ⭐ 163 | 🐛 17 | 🌐 TypeScript | 📅 2025-04-29 is a Visual Studio Code extension for Salesforce development
   * [xysfdx](https://github.com/exiahuang/xysfdx) ⭐ 11 | 🐛 4 | 🌐 TypeScript | 📅 2025-02-08 is a Visual Studio Code extension for Salesforce SFDX Development.
   * [Auto-complete +](https://marketplace.visualstudio.com/items?itemName=chuckjonas.apex-autocomplete) Provides auto-completions for Apex & Visualforce, Go-To & Peek Definition and Realtime Syntax Checking
@@ -110,7 +110,7 @@ Read cruciated list of [Awesome-list-of-browser-extensions-of-salesforce](https:
 
 ### Packages and Libraries supporting salesforce
 
-* [Apex Commons](https://github.com/financialforcedev/fflib-apex-common) ⭐ 1,010 | 🐛 37 | 🌐 Apex | 📅 2026-08-03 - Common Apex Library supporting Apex Enterprise Patterns and much more!
+* [Apex Commons](https://github.com/financialforcedev/fflib-apex-common) ⭐ 1,009 | 🐛 37 | 🌐 Apex | 📅 2026-08-03 - Common Apex Library supporting Apex Enterprise Patterns and much more!
   Must deploy [ApexMocks](https://github.com/financialforcedev/fflib-apex-mocks) ⭐ 460 | 🐛 11 | 🌐 Apex | 📅 2026-08-13 before deploying this library.Also see [MavensMate Templates](http://andyinthecloud.com/2014/05/23/mavensmate-templates-and-apex-enterprise-patterns/)<br/> <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-common"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
   </a>
 
@@ -118,13 +118,13 @@ Read cruciated list of [Awesome-list-of-browser-extensions-of-salesforce](https:
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/package.png" align="right" width="220">
 
-* [Apex Metadata API](https://github.com/financialforcedev/apex-mdapi) ⭐ 720 | 🐛 94 | 🌐 Apex | 📅 2025-08-19 - Apex Wrapper for the Salesforce Metadata API <br/> <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=apex-mdapi"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
+* [Apex Metadata API](https://github.com/financialforcedev/apex-mdapi) ⭐ 718 | 🐛 94 | 🌐 Apex | 📅 2025-08-19 - Apex Wrapper for the Salesforce Metadata API <br/> <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=apex-mdapi"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
   </a>
 
 * [Force DI](https://github.com/afawcett/force-di) ⭐ 239 | 🐛 27 | 🌐 Apex | 📅 2026-07-06 - Generic [dependency injection](https://en.wikipedia.org/wiki/Dependency_injection) (DI) library with support for injecting Apex, Visualforce, Lightning, and Flows at runtime.
 
 * [Apex Commons Sample Code](https://github.com/financialforcedev/fflib-apex-common-samplecode) ⭐ 218 | 🐛 10 | 🌐 Apex | 📅 2026-07-06 - Samples application illustrating the Apex Enterprise Patterns library
-  Must deploy [Apex Common ](https://github.com/financialforcedev/fflib-apex-common) ⭐ 1,010 | 🐛 37 | 🌐 Apex | 📅 2026-08-03 before deploying this library<br/> <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-common-samplecode"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
+  Must deploy [Apex Common ](https://github.com/financialforcedev/fflib-apex-common) ⭐ 1,009 | 🐛 37 | 🌐 Apex | 📅 2026-08-03 before deploying this library<br/> <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-common-samplecode"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
   </a>
 
 * [Apex Test Kit](https://github.com/apexfarm/ApexTestKit) ⭐ 163 | 🐛 3 | 🌐 Apex | 📅 2023-04-17 - Apex Test Kit can help generate massive sObject data for Apex test classes. It is can help establish arbitrary levels of many-to-one, one-to-many relationships, and also generate field values based on simple rules automatically.
@@ -177,7 +177,7 @@ Read cruciated list of [Awesome-list-of-browser-extensions-of-salesforce](https:
 
 * [force-dev-tool](https://github.com/amtrack/force-dev-tool) ⚠️ Archived - Command line tool supporting the Force.com development lifecycle.
 
-* [soql-parser-js](https://github.com/paustint/soql-parser-js) ⭐ 89 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-06 - JavaScript library for parsing SOQL queries, composing SOQL queries, and formatting SOQL queries.
+* [soql-parser-js](https://github.com/paustint/soql-parser-js) ⭐ 89 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-17 - JavaScript library for parsing SOQL queries, composing SOQL queries, and formatting SOQL queries.
 
 * [Cinnamon](https://github.com/forcedotcom/cinnamon) ⚠️ Archived-Cinnamon is a Force.com app that enables you to build and run Selenium tests to validate custom UI pages with Visualforce/Javascript in your Salesforce org.
 
@@ -366,4 +366,4 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/mai
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
