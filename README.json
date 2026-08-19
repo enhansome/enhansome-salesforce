@@ -1,339 +1,842 @@
 {
   "items": [
     {
-      "description": "Awesome is awesome project started by Sindre Sorhus who is most popular person on Github. He created a project to list down coolest of links bookmarked in your machines and organized them together by compiling them at one place. Later, this projects caught fire and developers community around the world started writing awesome pages (dedicated to their favorite technology).",
-      "items": [],
-      "title": "What is Awesome Salesforce ?"
-    },
-    {
-      "description": "Read the awesome manifesto and ensure your list complies.",
-      "items": [],
-      "title": "What makes for an awesome list?"
-    },
-    {
-      "description": "",
+      "description": "Repos not on can still be awesome\nEach repo listed meets at least one of the following requirements:\n100+ stars for community repos is not a strict requirement, it only serves as a guideline for the initial compilation. If you can vouch for the awesomeness of a repo with < 100 stars and you can explain why it should be listed, please submit a pull request.\nPull requests might be left open for a period of time to let the community chime in and vouch for it. An official repo from aws or awslabs can be removed if the community wishes. Check out the awesome manifesto.\nRead Related Awesome Pages :",
       "items": [
         {
           "node_type": "item",
-          "title": "HaoIDE",
-          "description": "Sublime Plugin for Force.com",
+          "title": "Awesome Lighting",
+          "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Python",
-            "last_commit": "2022-03-30T05:08:25Z",
-            "owner": "xjsender",
-            "repo": "haoide",
-            "stars": 198
+            "id": 40811879,
+            "language": null,
+            "last_commit": "2021-10-07T07:04:13Z",
+            "owner": "mailtoharshit",
+            "repo": "awesome-lightning",
+            "stars": 87
           }
         },
         {
           "node_type": "item",
-          "title": "ApexMate",
-          "description": "Apex Plugin for TextMate.",
+          "title": "Awesome Browser Extensions",
+          "description": null,
           "children": [],
           "repo_info": {
-            "archived": true,
-            "language": "Objective-C",
-            "last_commit": "2016-09-20T02:56:55Z",
-            "owner": "superfell",
-            "repo": "ApexMate",
-            "stars": 24
+            "archived": false,
+            "id": 40744750,
+            "language": null,
+            "last_commit": "2020-04-21T11:46:29Z",
+            "owner": "mailtoharshit",
+            "repo": "awesome-browser-extensions-for-salesforce",
+            "stars": 57
           }
         },
         {
           "node_type": "item",
-          "title": "Atom Plugin",
-          "description": "MavensMate plugin for building Salesforce.com/Force.com/Salesforce1 applications inside GitHub's Atom text editor",
-          "children": []
+          "title": "Awesome Articles",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41187071,
+            "language": null,
+            "last_commit": "2020-11-15T00:25:48Z",
+            "owner": "mailtoharshit",
+            "repo": "awesome-salesforce-articles",
+            "stars": 15
+          }
         },
         {
-          "node_type": "group",
-          "title": "Visual Studio Code",
+          "node_type": "item",
+          "title": "Awesome Heroku",
           "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40689632,
+            "language": null,
+            "last_commit": "2017-03-16T03:01:21Z",
+            "owner": "mailtoharshit",
+            "repo": "awesome-heroku",
+            "stars": 13
+          }
+        },
+        {
           "children": [
             {
               "node_type": "item",
-              "title": "Salesforce Extensions for VS Code",
-              "description": "are the official Salesforce VS Code extensions.",
+              "title": "HaoIDE",
+              "description": "Sublime Plugin for Force.com",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "TypeScript",
-                "last_commit": "2026-08-18T13:45:20Z",
-                "owner": "forcedotcom",
-                "repo": "salesforcedx-vscode",
-                "stars": 1033
+                "id": 29422645,
+                "language": "Python",
+                "last_commit": "2022-03-30T05:08:25Z",
+                "owner": "xjsender",
+                "repo": "haoide",
+                "stars": 198
               }
             },
             {
               "node_type": "item",
-              "title": "ForceCode",
-              "description": "is a Visual Studio Code extension for Salesforce development",
+              "title": "ApexMate",
+              "description": "Apex Plugin for TextMate.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 1277330,
+                "language": "Objective-C",
+                "last_commit": "2016-09-20T02:56:55Z",
+                "owner": "superfell",
+                "repo": "ApexMate",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "Visual Studio Code",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Salesforce Extensions for VS Code",
+                  "description": "are the official Salesforce VS Code extensions.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 95021029,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-19T04:15:35Z",
+                    "owner": "forcedotcom",
+                    "repo": "salesforcedx-vscode",
+                    "stars": 1033
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ForceCode",
+                  "description": "is a Visual Studio Code extension for Salesforce development",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 51211947,
+                    "language": "TypeScript",
+                    "last_commit": "2025-04-29T11:28:12Z",
+                    "owner": "celador",
+                    "repo": "ForceCode",
+                    "stars": 163
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "xysfdx",
+                  "description": "is a Visual Studio Code extension for Salesforce SFDX Development.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 230099595,
+                    "language": "TypeScript",
+                    "last_commit": "2025-02-08T07:37:41Z",
+                    "owner": "exiahuang",
+                    "repo": "xysfdx",
+                    "stars": 11
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Plugins for Salesforce"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Apex Commons",
+              "description": "Common Apex Library supporting Apex Enterprise Patterns and much more! Must deploy ApexMocks before deploying this library.Also see MavensMate Templates",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "TypeScript",
-                "last_commit": "2025-04-29T11:28:12Z",
-                "owner": "celador",
-                "repo": "ForceCode",
+                "id": 12408168,
+                "language": "Apex",
+                "last_commit": "2026-08-03T19:11:30Z",
+                "owner": "apex-enterprise-patterns",
+                "repo": "fflib-apex-common",
+                "stars": 1009
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Apex mocks",
+              "description": "ApexMocks is a mocking framework for the Force.com Apex language.It derives it's inspiration from the well known Java mocking framework Mockito",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19314326,
+                "language": "Apex",
+                "last_commit": "2026-08-13T16:05:41Z",
+                "owner": "apex-enterprise-patterns",
+                "repo": "fflib-apex-mocks",
+                "stars": 460
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Apex Metadata API",
+              "description": "Apex Wrapper for the Salesforce Metadata API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6174074,
+                "language": "Apex",
+                "last_commit": "2025-08-19T11:03:09Z",
+                "owner": "certinia",
+                "repo": "apex-mdapi",
+                "stars": 718
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Force DI",
+              "description": "Generic dependency injection (DI) library with support for injecting Apex, Visualforce, Lightning, and Flows at runtime.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 139998055,
+                "language": "Apex",
+                "last_commit": "2026-07-06T02:26:24Z",
+                "owner": "apex-enterprise-patterns",
+                "repo": "force-di",
+                "stars": 239
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Apex Commons Sample Code",
+              "description": "Samples application illustrating the Apex Enterprise Patterns library Must deploy Apex Common before deploying this library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12540485,
+                "language": "Apex",
+                "last_commit": "2026-07-06T02:46:48Z",
+                "owner": "apex-enterprise-patterns",
+                "repo": "fflib-apex-common-samplecode",
+                "stars": 218
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Apex Test Kit",
+              "description": "Apex Test Kit can help generate massive sObject data for Apex test classes. It is can help establish arbitrary levels of many-to-one, one-to-many relationships, and also generate field values based on simple rules automatically.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 145292590,
+                "language": "Apex",
+                "last_commit": "2023-04-17T10:32:20Z",
+                "owner": "apexfarm",
+                "repo": "ApexTestKit",
                 "stars": 163
               }
             },
             {
               "node_type": "item",
-              "title": "xysfdx",
-              "description": "is a Visual Studio Code extension for Salesforce SFDX Development.",
+              "title": "Query.apex",
+              "description": "SOQL query builder on Salesforce.com platform, which supports complex conditions, field and namespace management, child relationships query, and functional programming style coding.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "TypeScript",
-                "last_commit": "2025-02-08T07:37:41Z",
-                "owner": "exiahuang",
-                "repo": "xysfdx",
-                "stars": 11
+                "id": 131808532,
+                "language": "Apex",
+                "last_commit": "2023-12-26T14:14:14Z",
+                "owner": "PropicSignifi",
+                "repo": "Query.apex",
+                "stars": 156
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Force.com ESAPI",
+              "description": "Enterprise Security API for the Apex language on the Force.com platform. This library consists of three modules - Validation, Output Encoding and Access Control(CRUD, FLS and Sharing).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37993731,
+                "language": "Apex",
+                "last_commit": "2026-06-02T18:17:23Z",
+                "owner": "forcedotcom",
+                "repo": "force-dot-com-esapi",
+                "stars": 129
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Visualforce TableGrid",
+              "description": "TableGrid is a free, open-source Force.com library, that provides users and developers a highly customizable, native-looking, sortable, filterable, editable Grid Visualforce component. This component can be used as an advanced, highly configurable (by developer and user) replacement of apex:pageBlockTables and Standard Related Lists",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7523922,
+                "language": "Apex",
+                "last_commit": "2023-10-18T14:53:08Z",
+                "owner": "rsoesemann",
+                "repo": "visualforce-table-grid",
+                "stars": 124
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Apex UML Digram Maker",
+              "description": "Create UML diagrams from Apex code using the Tooling API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13907073,
+                "language": "JavaScript",
+                "last_commit": "2019-01-21T07:25:05Z",
+                "owner": "afawcett",
+                "repo": "apex-umlcanvas",
+                "stars": 110
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "R.apex",
+              "description": "Functional library for Apex. This library, inspired by Ramda.js, offers a bunch of utility functions to manipulate Apex collections, as well as extensive support for functional programming.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 131224466,
+                "language": "Apex",
+                "last_commit": "2023-02-22T15:23:32Z",
+                "owner": "PropicSignifi",
+                "repo": "R.apex",
+                "stars": 106
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Apex Core HttpCallout",
+              "description": "Apex HTTP Callout Framework.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Google Drive",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 29918526,
+                    "language": "Apex",
+                    "last_commit": "2021-02-15T20:30:55Z",
+                    "owner": "certinia",
+                    "repo": "ffhttp-googledrive",
+                    "stars": 21
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Google Sheets",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 30363311,
+                    "language": "Apex",
+                    "last_commit": "2017-12-06T09:07:24Z",
+                    "owner": "certinia",
+                    "repo": "ffhttp-googlesheets",
+                    "stars": 15
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Dropbox",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 29868340,
+                    "language": "Apex",
+                    "last_commit": "2015-01-28T12:01:35Z",
+                    "owner": "certinia",
+                    "repo": "ffhttp-dropbox",
+                    "stars": 8
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Google Cloud Print",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 30301606,
+                    "language": "Apex",
+                    "last_commit": "2018-04-03T08:22:11Z",
+                    "owner": "certinia",
+                    "repo": "ffhttp-googlecloudprint",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Google Mirror",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 30304852,
+                    "language": "Apex",
+                    "last_commit": "2015-02-05T09:53:29Z",
+                    "owner": "certinia",
+                    "repo": "ffhttp-googlemirror",
+                    "stars": 2
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 29525469,
+                "language": "Apex",
+                "last_commit": "2020-06-26T08:09:42Z",
+                "owner": "certinia",
+                "repo": "ffhttp-core",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Apex Chainable Batch",
+              "description": "Apex Batches can be chained by calling the successor batch from the method of the previous batch. But such hardcoding makes this model inflexible. It's hard to build the chain from outside, neighter from a central class nor on runtime dependant on business logic.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 166958987,
+                "language": "Apex",
+                "last_commit": "2024-09-04T14:17:14Z",
+                "owner": "rsoesemann",
+                "repo": "apex-chainable",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Polyforce",
+              "description": "PolyForce is the project started as an idea with a motive create polymer applications/components that derive data from Salesforce, The idea create a robust set of polymer components that can mutually be shared with each other and on the other hand provide a working sample for developers to learn and get inspired to built more components",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21417333,
+                "language": null,
+                "last_commit": "2015-01-16T07:55:07Z",
+                "owner": "mailtoharshit",
+                "repo": "PolyForce",
+                "stars": 29
               }
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Packages and Libraries supporting salesforce"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Workbench",
+              "description": "Workbench is a powerful, web-based suite of tools designed for administrators and developers to interact with Salesforce.com organizations via the Force.com APIs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7849716,
+                "language": "PHP",
+                "last_commit": "2026-07-25T02:38:06Z",
+                "owner": "forceworkbench",
+                "repo": "forceworkbench",
+                "stars": 536
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SoqlXplorer",
+              "description": "SoqlXplorer is an awesome tool for developers using the Salesforce.com platform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4539309,
+                "language": "Objective-C",
+                "last_commit": "2023-08-20T17:29:29Z",
+                "owner": "superfell",
+                "repo": "SoqlX",
+                "stars": 279
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Analytics-Cloud-Dataset-Utils",
+              "description": "Utility to load external data into Analytics Cloud datasets, and transform existing datasets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25543574,
+                "language": "JavaScript",
+                "last_commit": "2026-06-02T18:17:18Z",
+                "owner": "forcedotcom",
+                "repo": "Analytics-Cloud-Dataset-Utils",
+                "stars": 130
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "force-dev-tool",
+              "description": "Command line tool supporting the Force.com development lifecycle.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 42260617,
+                "language": "JavaScript",
+                "last_commit": "2022-10-23T13:21:47Z",
+                "owner": "amtrack",
+                "repo": "force-dev-tool",
+                "stars": 108
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "soql-parser-js",
+              "description": "JavaScript library for parsing SOQL queries, composing SOQL queries, and formatting SOQL queries.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 145348161,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T12:48:06Z",
+                "owner": "jetstreamapp",
+                "repo": "soql-parser-js",
+                "stars": 89
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cinnamon",
+              "description": "Cinnamon is a Force.com app that enables you to build and run Selenium tests to validate custom UI pages with Visualforce/Javascript in your Salesforce org.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 19547593,
+                "language": "Apex",
+                "last_commit": "2018-06-26T20:06:21Z",
+                "owner": "forcedotcom",
+                "repo": "cinnamon",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sweet.apex",
+              "description": "Sweet.apex is the next generation of Apex development, transpiling Sweet Apex(a feature-rich Apex-like code) to Apex classes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 137870036,
+                "language": "JavaScript",
+                "last_commit": "2018-08-12T22:35:57Z",
+                "owner": "PropicSignifi",
+                "repo": "Sweet.apex",
+                "stars": 46
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Salesforce1-Dev-Guide-Setup-Package",
+              "description": "Salesforce1-Dev-Guide-Setup-Package",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 13691212,
+                "language": null,
+                "last_commit": "2018-06-26T20:06:19Z",
+                "owner": "forcedotcom",
+                "repo": "Salesforce1-Dev-Guide-Setup-Package",
+                "stars": 42
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Developer Utilities"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Salesforce Mobile UI - Polymer Elements for Salesforce",
+              "description": "Mobile UI Elements is a free, open-source Force.com (unsupported) library to simplify the development of mobile apps. The library, based on the Google’s Polymer framework, provides the fundamental building blocks for creating HTML5 apps that run well on smartphones and tablets",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 13843157,
+                "language": "JavaScript",
+                "last_commit": "2022-02-12T08:35:29Z",
+                "owner": "forcedotcom",
+                "repo": "mobile-ui-elements",
+                "stars": 247
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ForceServer",
+              "description": "It supportes a proxy and web server, ForceServer is a simple development server aimed at providing a simple and integrated developer experience when building applications that use Salesforce OAuth and REST services.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25527405,
+                "language": "JavaScript",
+                "last_commit": "2020-06-19T13:16:37Z",
+                "owner": "ccoenraets",
+                "repo": "force-server",
+                "stars": 49
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Open Source Projects Repositories from Salesforce"
         }
       ],
-      "title": "Plugins for Salesforce"
+      "title": "The Fiery Meter of AWSome"
     },
     {
-      "description": "Read cruciated list of Awesome-list-of-browser-extensions-of-salesforce",
-      "items": [],
-      "title": "Browser extensions for Salesforce"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
-          "title": "Apex Commons",
-          "description": "Common Apex Library supporting Apex Enterprise Patterns and much more! Must deploy ApexMocks before deploying this library.Also see MavensMate Templates",
+          "title": "nForce",
+          "description": "nforce is a node.js salesforce REST API wrapper for force.com, database.com, and salesforce.com",
           "children": [],
           "repo_info": {
-            "archived": false,
-            "language": "Apex",
-            "last_commit": "2026-08-03T19:11:30Z",
-            "owner": "apex-enterprise-patterns",
-            "repo": "fflib-apex-common",
-            "stars": 1009
+            "archived": true,
+            "id": 4209411,
+            "language": "JavaScript",
+            "last_commit": "2024-06-17T19:26:24Z",
+            "owner": "kevinohara80",
+            "repo": "nforce",
+            "stars": 471
           }
         },
         {
           "node_type": "item",
-          "title": "Apex mocks",
-          "description": "ApexMocks is a mocking framework for the Force.com Apex language.It derives it's inspiration from the well known Java mocking framework Mockito",
+          "title": "ForceTK",
+          "description": "ForceTK - a minimal Force.com REST API for JavaScript apps",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 1542897,
+            "language": "JavaScript",
+            "last_commit": "2024-01-10T13:10:31Z",
+            "owner": "developerforce",
+            "repo": "Force.com-JavaScript-REST-Toolkit",
+            "stars": 316
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ForceJS",
+          "description": "With ES6 support now, this micro library designed to use the Salesforce REST APIs in JavaScript Apps",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Apex",
-            "last_commit": "2026-08-13T16:05:41Z",
-            "owner": "apex-enterprise-patterns",
-            "repo": "fflib-apex-mocks",
-            "stars": 460
+            "id": 22922346,
+            "language": "JavaScript",
+            "last_commit": "2018-01-12T20:12:03Z",
+            "owner": "ccoenraets",
+            "repo": "forcejs",
+            "stars": 175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ngForce",
+          "description": "A set of Angular.js modules that facilitate quick and sustainable Angular.js application development on the Force.com Platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10037797,
+            "language": "JavaScript",
+            "last_commit": "2017-01-22T00:43:38Z",
+            "owner": "noeticpenguin",
+            "repo": "ngForce",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Formulon",
+          "description": "Formula parser completely implemented in ES6. See Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 52385255,
+            "language": "JavaScript",
+            "last_commit": "2026-04-06T20:22:04Z",
+            "owner": "leifg",
+            "repo": "formulon",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ForceEng",
+          "description": "Micro-Library to use Salesforce REST API in AngularJS apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22922494,
+            "language": "JavaScript",
+            "last_commit": "2020-04-17T23:14:28Z",
+            "owner": "ccoenraets",
+            "repo": "forceng",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ForceSniffer - Device Detection Library for Salesforce",
+          "description": "Simplified Library that detect Mobile Devices, Salesforce1 App and other Saleforce Context.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 47101126,
+            "language": "JavaScript",
+            "last_commit": "2016-04-11T18:28:11Z",
+            "owner": "mailtoharshit",
+            "repo": "ForceSniffer.Js",
+            "stars": 13
           }
         }
       ],
-      "title": "Packages and Libraries supporting salesforce"
+      "title": "Javascript Libraries for Salesforce"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
-          "title": "Workbench",
-          "description": "Workbench is a powerful, web-based suite of tools designed for administrators and developers to interact with Salesforce.com organizations via the Force.com APIs.",
+          "title": "Salesforce ReactJS SPA Starter",
+          "description": "A template project to create ReactJS-based single page application on Salesforce, with automatic build script (Gulp.js)",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-07-25T02:38:06Z",
-            "owner": "forceworkbench",
-            "repo": "forceworkbench",
-            "stars": 536
+            "id": 31217250,
+            "language": "CoffeeScript",
+            "last_commit": "2015-02-25T11:24:26Z",
+            "owner": "stomita",
+            "repo": "salesforce-reactjs-spa-starter",
+            "stars": 16
           }
         },
         {
           "node_type": "item",
-          "title": "SoqlXplorer",
-          "description": "SoqlXplorer is an awesome tool for developers using the Salesforce.com platform.",
+          "title": "ForceSpinner",
+          "description": "Loaders/Spinner collections to leverage powerful User Experience for Salesforce Projects",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2023-08-20T17:29:29Z",
-            "owner": "superfell",
-            "repo": "SoqlX",
-            "stars": 279
+            "id": 48418380,
+            "language": "CSS",
+            "last_commit": "2016-02-12T02:08:59Z",
+            "owner": "mailtoharshit",
+            "repo": "ForceSpinner",
+            "stars": 8
           }
         },
         {
           "node_type": "item",
-          "title": "Analytics-Cloud-Dataset-Utils",
-          "description": "Utility to load external data into Analytics Cloud datasets, and transform existing datasets.",
+          "title": "Feather - Google Material Design Mockup for Salesforce",
+          "description": "Library",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-06-02T18:17:18Z",
-            "owner": "forcedotcom",
-            "repo": "Analytics-Cloud-Dataset-Utils",
-            "stars": 130
+            "id": 38664804,
+            "language": "CSS",
+            "last_commit": "2018-12-16T22:41:19Z",
+            "owner": "mailtoharshit",
+            "repo": "Feather",
+            "stars": 7
           }
-        },
-        {
-          "node_type": "item",
-          "title": "force-dev-tool",
-          "description": "Command line tool supporting the Force.com development lifecycle.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2022-10-23T13:21:47Z",
-            "owner": "amtrack",
-            "repo": "force-dev-tool",
-            "stars": 108
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "soql-parser-js",
-          "description": "JavaScript library for parsing SOQL queries, composing SOQL queries, and formatting SOQL queries.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T12:48:06Z",
-            "owner": "jetstreamapp",
-            "repo": "soql-parser-js",
-            "stars": 89
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cinnamon",
-          "description": "Cinnamon is a Force.com app that enables you to build and run Selenium tests to validate custom UI pages with Visualforce/Javascript in your Salesforce org.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Apex",
-            "last_commit": "2018-06-26T20:06:21Z",
-            "owner": "forcedotcom",
-            "repo": "cinnamon",
-            "stars": 67
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sweet.apex",
-          "description": "Sweet.apex is the next generation of Apex development, transpiling Sweet Apex(a feature-rich Apex-like code) to Apex classes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-08-12T22:35:57Z",
-            "owner": "PropicSignifi",
-            "repo": "Sweet.apex",
-            "stars": 46
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Salesforce1-Dev-Guide-Setup-Package",
-          "description": "Salesforce1-Dev-Guide-Setup-Package",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2018-06-26T20:06:19Z",
-            "owner": "forcedotcom",
-            "repo": "Salesforce1-Dev-Guide-Setup-Package",
-            "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Push Notification Plugin for iOS and Android",
-          "description": "Cordova Push Notifications Plugin for Android, iOS, WP8 and Amazon Fire OS",
-          "children": []
         }
       ],
-      "title": "Developer Utilities"
+      "title": "UX Libraries for Salesforce"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Salesfoce MobileSDK for iOS",
+              "description": "If you'd like to work with the source code of the SDK itself, you've come to the right place! You can browse sample app source code and debug down through the layers to get a feel for how everything works under the covers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2338086,
+                "language": "Objective-C",
+                "last_commit": "2026-08-19T01:58:33Z",
+                "owner": "forcedotcom",
+                "repo": "SalesforceMobileSDK-iOS",
+                "stars": 555
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Salesfoce MobileSDK for Andriod",
+              "description": "Source repository for the Salesforce Mobile SDK for Android.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2782691,
+                "language": "Kotlin",
+                "last_commit": "2026-08-18T16:55:35Z",
+                "owner": "forcedotcom",
+                "repo": "SalesforceMobileSDK-Android",
+                "stars": 361
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Salesfoce MobileSDK for Windows",
+              "description": "Build the project normally in Visual Studio; everything should build fine. If you wish to create a new project and not use the NuGet versions of the core libraries, simply create a new project with the template, remove the NuGet reference and add references to Salesforce.SDK.Core, Salesforce.SDK.Store (for windows projects) or Salesforce.SDK.Phone for phone projects.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 20311040,
+                "language": "JavaScript",
+                "last_commit": "2022-02-12T08:35:54Z",
+                "owner": "forcedotcom",
+                "repo": "SalesforceMobileSDK-Windows",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Mobile SDK"
+        }
+      ],
       "title": "Mobile Development with Salesforce"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Salesfoce MobileSDK for iOS",
-          "description": "If you'd like to work with the source code of the SDK itself, you've come to the right place! You can browse sample app source code and debug down through the layers to get a feel for how everything works under the covers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2026-08-17T22:52:46Z",
-            "owner": "forcedotcom",
-            "repo": "SalesforceMobileSDK-iOS",
-            "stars": 555
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Salesfoce MobileSDK for Andriod",
-          "description": "Source repository for the Salesforce Mobile SDK for Android.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-15T17:26:49Z",
-            "owner": "forcedotcom",
-            "repo": "SalesforceMobileSDK-Android",
-            "stars": 361
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Salesfoce MobileSDK for Windows",
-          "description": "Build the project normally in Visual Studio; everything should build fine. If you wish to create a new project and not use the NuGet versions of the core libraries, simply create a new project with the template, remove the NuGet reference and add references to Salesforce.SDK.Core, Salesforce.SDK.Store (for windows projects) or Salesforce.SDK.Phone for phone projects.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2022-02-12T08:35:54Z",
-            "owner": "forcedotcom",
-            "repo": "SalesforceMobileSDK-Windows",
-            "stars": 12
-          }
-        }
-      ],
-      "title": "Mobile SDK"
-    },
-    {
-      "description": "Google Polymer Pack : Try Designer | Github Repo | Watch Designer Video | Build your Mobile App with a set of new HTML tags that ease the development of salesforce driven user interfaces. It's based on the Google’s Polymer framework and uses Web Components to provide fundamental building blocks for creating an Offline enabled application with Salesforce Mobile SDK\nAngularJS Pack : Get Started | Github Repo | Design and build apps that separate UI, logic, and data using Mobile Pack for AngularJS. Google's AngularJS lets you reap the benefits of a Model-View-Control architecture in your JavaScript code and utilize advanced features like reusable components and dependency injection.",
-      "items": [],
-      "title": "Salesforce Mobile Packs with Javascript Libraries"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T13:55:34.412Z",
+    "last_updated": "2026-08-19T12:52:45.774Z",
     "original_repository": "mailtoharshit/awesome-salesforce",
+    "original_repository_id": 39873325,
     "original_repository_sha": "951c3c9b661e5f64a24ca941d41c9d9176bc0f26",
     "enhanced_repository": "enhansome/enhansome-salesforce",
     "enhanced_repository_description": null,
