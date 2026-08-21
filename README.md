@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/Spring19Logo.gif" align="right" width="220" height="400">
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,076 | 🐛 105 | 📅 2026-08-18
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,510 | 🐛 104 | 📅 2026-08-21
 
 [![Join the chat at https://gitter.im/mailtoharshit/awesome-salesforce](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mailtoharshit/awesome-salesforce?utm_source=badge\&utm_medium=badge\&utm_campaign=pr-badge\&utm_content=badge)
 
 > Useful resources for creating apps with [Salesforce](https://login.salesforce.com/)
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,076 | 🐛 105 | 📅 2026-08-18 list thing. You might also like to read complete [awesome-list](https://github.com/sindresorhus/awesome) ⭐ 498,076 | 🐛 105 | 📅 2026-08-18.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,510 | 🐛 104 | 📅 2026-08-21 list thing. You might also like to read complete [awesome-list](https://github.com/sindresorhus/awesome) ⭐ 498,510 | 🐛 104 | 📅 2026-08-21.*
 
 ## What is Awesome Salesforce ?
 
@@ -35,7 +35,7 @@ Each repo listed meets at least one of the following requirements:
 
 100+ stars for community repos is not a strict requirement, it only serves as a guideline for the initial compilation.  If you can vouch for the awesomeness of a repo with < 100 stars and you can explain why it should be listed, please submit a pull request.
 
-Pull requests might be left open for a period of time to let the community chime in and vouch for it.  An official repo from [aws](https://github.com/aws) or [awslabs](https://github.com/awslabs) can be removed if the community wishes.  Check out the [awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 498,076 | 🐛 105 | 📅 2026-08-18.
+Pull requests might be left open for a period of time to let the community chime in and vouch for it.  An official repo from [aws](https://github.com/aws) or [awslabs](https://github.com/awslabs) can be removed if the community wishes.  Check out the [awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 498,510 | 🐛 104 | 📅 2026-08-21.
 
 Read Related Awesome Pages :
 
@@ -89,8 +89,8 @@ The previously popular Mavensmate editor(<http://mavensmate.com/>) has now cease
 * [Eclipse Plugin](http://media.developerforce.com/force-ide/eclipse42) - Based on Eclipse Platform, supported and packaged by Salesforce.com
 * [Atom Plugin](https://github.com/joeferraro/MavensMate-Atom)- MavensMate plugin for building Salesforce.com/Force.com/Salesforce1 applications inside GitHub's Atom text editor
 * Visual Studio Code
-  * [Salesforce Extensions for VS Code](https://github.com/forcedotcom/salesforcedx-vscode) ⭐ 1,034 | 🐛 88 | 🌐 TypeScript | 📅 2026-08-20 are the official Salesforce VS Code extensions.
-  * [ForceCode](https://github.com/celador/ForceCode) ⭐ 163 | 🐛 17 | 🌐 TypeScript | 📅 2025-04-29 is a Visual Studio Code extension for Salesforce development
+  * [Salesforce Extensions for VS Code](https://github.com/forcedotcom/salesforcedx-vscode) ⭐ 1,033 | 🐛 83 | 🌐 TypeScript | 📅 2026-08-21 are the official Salesforce VS Code extensions.
+  * [ForceCode](https://github.com/celador/ForceCode) ⭐ 163 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-21 is a Visual Studio Code extension for Salesforce development
   * [xysfdx](https://github.com/exiahuang/xysfdx) ⭐ 11 | 🐛 4 | 🌐 TypeScript | 📅 2025-02-08 is a Visual Studio Code extension for Salesforce SFDX Development.
   * [Auto-complete +](https://marketplace.visualstudio.com/items?itemName=chuckjonas.apex-autocomplete) Provides auto-completions for Apex & Visualforce, Go-To & Peek Definition and Realtime Syntax Checking
   * [Salesforce Snippets](https://marketplace.visualstudio.com/items?itemName=ajinkya-hingne.salesforce-snippets) is a VS Code Extension which provides useful Salesforce snippets to speed up writing code for Salesforce platform
@@ -270,7 +270,7 @@ Read cruciated list of [Awesome-list-of-browser-extensions-of-salesforce](https:
 
 ### Mobile SDK
 
-* [Salesfoce MobileSDK for iOS](https://github.com/forcedotcom/SalesforceMobileSDK-iOS) ⭐ 555 | 🐛 8 | 🌐 Objective-C | 📅 2026-08-20-If you'd like to work with the source code of the SDK itself, you've come to the right place! You can browse sample app source code and debug down through the layers to get a feel for how everything works under the covers.
+* [Salesfoce MobileSDK for iOS](https://github.com/forcedotcom/SalesforceMobileSDK-iOS) ⭐ 555 | 🐛 8 | 🌐 Objective-C | 📅 2026-08-21-If you'd like to work with the source code of the SDK itself, you've come to the right place! You can browse sample app source code and debug down through the layers to get a feel for how everything works under the covers.
 
 * [Salesfoce MobileSDK for Andriod](https://github.com/forcedotcom/SalesforceMobileSDK-Android) ⭐ 361 | 🐛 8 | 🌐 Kotlin | 📅 2026-08-19- Source repository for the Salesforce Mobile SDK for Android.
 
@@ -366,4 +366,4 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/mai
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
