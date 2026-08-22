@@ -109,7 +109,7 @@
                     "archived": false,
                     "id": 95021029,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-21T13:49:57Z",
+                    "last_commit": "2026-08-22T04:15:07Z",
                     "owner": "forcedotcom",
                     "repo": "salesforcedx-vscode",
                     "stars": 1033
@@ -163,7 +163,7 @@
                 "archived": false,
                 "id": 12408168,
                 "language": "Apex",
-                "last_commit": "2026-08-03T19:11:30Z",
+                "last_commit": "2026-08-22T08:45:56Z",
                 "owner": "apex-enterprise-patterns",
                 "repo": "fflib-apex-common",
                 "stars": 1009
@@ -788,7 +788,7 @@
                 "archived": false,
                 "id": 2338086,
                 "language": "Objective-C",
-                "last_commit": "2026-08-21T03:02:32Z",
+                "last_commit": "2026-08-21T22:45:50Z",
                 "owner": "forcedotcom",
                 "repo": "SalesforceMobileSDK-iOS",
                 "stars": 555
@@ -803,7 +803,7 @@
                 "archived": false,
                 "id": 2782691,
                 "language": "Kotlin",
-                "last_commit": "2026-08-19T23:53:09Z",
+                "last_commit": "2026-08-21T23:14:32Z",
                 "owner": "forcedotcom",
                 "repo": "SalesforceMobileSDK-Android",
                 "stars": 361
@@ -834,7 +834,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T13:56:36.164Z",
+    "last_updated": "2026-08-22T13:43:31.045Z",
     "original_repository": "mailtoharshit/awesome-salesforce",
     "original_repository_id": 39873325,
     "original_repository_sha": "951c3c9b661e5f64a24ca941d41c9d9176bc0f26",
