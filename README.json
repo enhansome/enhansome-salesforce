@@ -109,7 +109,7 @@
                     "archived": false,
                     "id": 95021029,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-22T04:15:07Z",
+                    "last_commit": "2026-08-23T13:22:21Z",
                     "owner": "forcedotcom",
                     "repo": "salesforcedx-vscode",
                     "stars": 1033
@@ -163,7 +163,7 @@
                 "archived": false,
                 "id": 12408168,
                 "language": "Apex",
-                "last_commit": "2026-08-22T08:45:56Z",
+                "last_commit": "2026-08-23T01:47:41Z",
                 "owner": "apex-enterprise-patterns",
                 "repo": "fflib-apex-common",
                 "stars": 1009
@@ -196,7 +196,7 @@
                 "last_commit": "2025-08-19T11:03:09Z",
                 "owner": "certinia",
                 "repo": "apex-mdapi",
-                "stars": 718
+                "stars": 717
               }
             },
             {
@@ -834,7 +834,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T13:43:31.045Z",
+    "last_updated": "2026-08-23T13:44:08.917Z",
     "original_repository": "mailtoharshit/awesome-salesforce",
     "original_repository_id": 39873325,
     "original_repository_sha": "951c3c9b661e5f64a24ca941d41c9d9176bc0f26",
