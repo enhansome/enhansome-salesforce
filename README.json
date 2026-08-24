@@ -109,7 +109,7 @@
                     "archived": false,
                     "id": 95021029,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-23T13:22:21Z",
+                    "last_commit": "2026-08-24T14:03:00Z",
                     "owner": "forcedotcom",
                     "repo": "salesforcedx-vscode",
                     "stars": 1033
@@ -576,6 +576,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "GitIgnore for Salesforce",
+              "description": "Reusable .gitIgnore file for Salesforce or Force.com Projects",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44294139,
+                "language": null,
+                "last_commit": "2017-01-20T16:10:55Z",
+                "owner": "mailtoharshit",
+                "repo": "gitignore",
+                "stars": 32
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Git Ignore for Salesforce"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Salesforce Mobile UI - Polymer Elements for Salesforce",
               "description": "Mobile UI Elements is a free, open-source Force.com (unsupported) library to simplify the development of mobile apps. The library, based on the Google’s Polymer framework, provides the fundamental building blocks for creating HTML5 apps that run well on smartphones and tablets",
               "children": [],
@@ -778,6 +800,69 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "Some other solutions from awesome-etl list",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 43790983,
+            "language": null,
+            "last_commit": "2026-05-01T06:27:21Z",
+            "owner": "pawl",
+            "repo": "awesome-etl",
+            "stars": 3585
+          }
+        }
+      ],
+      "title": "ETL Tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Lightning",
+          "description": "Awesome Contents for Salesforce Lightning Framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40811879,
+            "language": null,
+            "last_commit": "2021-10-07T07:04:13Z",
+            "owner": "mailtoharshit",
+            "repo": "awesome-lightning",
+            "stars": 87
+          }
+        }
+      ],
+      "title": "Salesforce Lightning"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Salesforce Browser Extensions",
+          "description": "Collection of Awesome Browser Extensions for Salesforce",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40744750,
+            "language": null,
+            "last_commit": "2020-04-21T11:46:29Z",
+            "owner": "mailtoharshit",
+            "repo": "awesome-browser-extensions-for-salesforce",
+            "stars": 57
+          }
+        }
+      ],
+      "title": "Salesforce Browser Extensions"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "children": [
             {
               "node_type": "item",
@@ -834,7 +919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T13:44:08.917Z",
+    "last_updated": "2026-08-24T14:16:10.692Z",
     "original_repository": "mailtoharshit/awesome-salesforce",
     "original_repository_id": 39873325,
     "original_repository_sha": "951c3c9b661e5f64a24ca941d41c9d9176bc0f26",
