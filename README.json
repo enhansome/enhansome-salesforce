@@ -109,7 +109,7 @@
                     "archived": false,
                     "id": 95021029,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T14:03:00Z",
+                    "last_commit": "2026-08-24T14:44:36Z",
                     "owner": "forcedotcom",
                     "repo": "salesforcedx-vscode",
                     "stars": 1033
@@ -919,7 +919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:16:10.692Z",
+    "last_updated": "2026-08-24T15:06:47.431Z",
     "original_repository": "mailtoharshit/awesome-salesforce",
     "original_repository_id": 39873325,
     "original_repository_sha": "951c3c9b661e5f64a24ca941d41c9d9176bc0f26",
