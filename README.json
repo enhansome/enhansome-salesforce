@@ -109,7 +109,7 @@
                     "archived": false,
                     "id": 95021029,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-25T12:44:45Z",
+                    "last_commit": "2026-08-26T13:09:37Z",
                     "owner": "forcedotcom",
                     "repo": "salesforcedx-vscode",
                     "stars": 1033
@@ -163,7 +163,7 @@
                 "archived": false,
                 "id": 12408168,
                 "language": "Apex",
-                "last_commit": "2026-08-25T08:35:56Z",
+                "last_commit": "2026-08-25T15:26:31Z",
                 "owner": "apex-enterprise-patterns",
                 "repo": "fflib-apex-common",
                 "stars": 1009
@@ -223,7 +223,7 @@
                 "archived": false,
                 "id": 12540485,
                 "language": "Apex",
-                "last_commit": "2026-08-25T10:36:51Z",
+                "last_commit": "2026-08-25T18:29:39Z",
                 "owner": "apex-enterprise-patterns",
                 "repo": "fflib-apex-common-samplecode",
                 "stars": 218
@@ -811,7 +811,7 @@
             "last_commit": "2026-05-01T06:27:21Z",
             "owner": "pawl",
             "repo": "awesome-etl",
-            "stars": 3586
+            "stars": 3585
           }
         }
       ],
@@ -873,7 +873,7 @@
                 "archived": false,
                 "id": 2338086,
                 "language": "Objective-C",
-                "last_commit": "2026-08-25T00:49:17Z",
+                "last_commit": "2026-08-25T19:41:07Z",
                 "owner": "forcedotcom",
                 "repo": "SalesforceMobileSDK-iOS",
                 "stars": 555
@@ -888,7 +888,7 @@
                 "archived": false,
                 "id": 2782691,
                 "language": "Kotlin",
-                "last_commit": "2026-08-25T01:00:52Z",
+                "last_commit": "2026-08-25T22:36:50Z",
                 "owner": "forcedotcom",
                 "repo": "SalesforceMobileSDK-Android",
                 "stars": 361
@@ -919,7 +919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T14:02:04.516Z",
+    "last_updated": "2026-08-26T14:02:23.052Z",
     "original_repository": "mailtoharshit/awesome-salesforce",
     "original_repository_id": 39873325,
     "original_repository_sha": "951c3c9b661e5f64a24ca941d41c9d9176bc0f26",
