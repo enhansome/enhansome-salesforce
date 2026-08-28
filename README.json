@@ -16,7 +16,8 @@
             "owner": "mailtoharshit",
             "repo": "awesome-lightning",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T23:01:10.738Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "mailtoharshit",
             "repo": "awesome-browser-extensions-for-salesforce",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T23:01:10.738Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "mailtoharshit",
             "repo": "awesome-salesforce-articles",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T23:01:10.738Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "mailtoharshit",
             "repo": "awesome-heroku",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T23:01:10.738Z"
         },
         {
           "children": [
@@ -78,7 +82,8 @@
                 "owner": "xjsender",
                 "repo": "haoide",
                 "stars": 198
-              }
+              },
+              "first_seen": "2026-08-28T23:01:10.738Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "superfell",
                 "repo": "ApexMate",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T23:01:10.738Z"
             },
             {
               "node_type": "group",
@@ -109,11 +115,12 @@
                     "archived": false,
                     "id": 95021029,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T22:32:46Z",
+                    "last_commit": "2026-08-28T22:35:07Z",
                     "owner": "forcedotcom",
                     "repo": "salesforcedx-vscode",
                     "stars": 1033
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:01:10.738Z"
                 },
                 {
                   "node_type": "item",
@@ -128,7 +135,8 @@
                     "owner": "celador",
                     "repo": "ForceCode",
                     "stars": 163
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:01:10.738Z"
                 },
                 {
                   "node_type": "item",
@@ -143,7 +151,8 @@
                     "owner": "exiahuang",
                     "repo": "xysfdx",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:01:10.738Z"
                 }
               ]
             }
@@ -167,7 +176,8 @@
                 "owner": "apex-enterprise-patterns",
                 "repo": "fflib-apex-common",
                 "stars": 1009
-              }
+              },
+              "first_seen": "2026-08-28T23:01:10.738Z"
             },
             {
               "node_type": "item",
@@ -182,7 +192,8 @@
                 "owner": "apex-enterprise-patterns",
                 "repo": "fflib-apex-mocks",
                 "stars": 460
-              }
+              },
+              "first_seen": "2026-08-28T23:01:10.738Z"
             },
             {
               "node_type": "item",
@@ -197,7 +208,8 @@
                 "owner": "certinia",
                 "repo": "apex-mdapi",
                 "stars": 717
-              }
+              },
+              "first_seen": "2026-08-28T23:01:10.738Z"
             },
             {
               "node_type": "item",
@@ -212,7 +224,8 @@
                 "owner": "apex-enterprise-patterns",
                 "repo": "force-di",
                 "stars": 239
-              }
+              },
+              "first_seen": "2026-08-28T23:01:10.738Z"
             },
             {
               "node_type": "item",
@@ -227,7 +240,8 @@
                 "owner": "apex-enterprise-patterns",
                 "repo": "fflib-apex-common-samplecode",
                 "stars": 218
-              }
+              },
+              "first_seen": "2026-08-28T23:01:10.738Z"
             },
             {
               "node_type": "item",
@@ -242,7 +256,8 @@
                 "owner": "apexfarm",
                 "repo": "ApexTestKit",
                 "stars": 163
-              }
+              },
+              "first_seen": "2026-08-28T23:01:10.738Z"
             },
             {
               "node_type": "item",
@@ -257,7 +272,8 @@
                 "owner": "PropicSignifi",
                 "repo": "Query.apex",
                 "stars": 156
-              }
+              },
+              "first_seen": "2026-08-28T23:01:10.738Z"
             },
             {
               "node_type": "item",
@@ -272,7 +288,8 @@
                 "owner": "forcedotcom",
                 "repo": "force-dot-com-esapi",
                 "stars": 129
-              }
+              },
+              "first_seen": "2026-08-28T23:01:10.738Z"
             },
             {
               "node_type": "item",
@@ -287,7 +304,8 @@
                 "owner": "rsoesemann",
                 "repo": "visualforce-table-grid",
                 "stars": 124
-              }
+              },
+              "first_seen": "2026-08-28T23:01:10.738Z"
             },
             {
               "node_type": "item",
@@ -302,7 +320,8 @@
                 "owner": "afawcett",
                 "repo": "apex-umlcanvas",
                 "stars": 111
-              }
+              },
+              "first_seen": "2026-08-28T23:01:10.738Z"
             },
             {
               "node_type": "item",
@@ -317,7 +336,8 @@
                 "owner": "PropicSignifi",
                 "repo": "R.apex",
                 "stars": 106
-              }
+              },
+              "first_seen": "2026-08-28T23:01:10.738Z"
             },
             {
               "node_type": "item",
@@ -337,7 +357,8 @@
                     "owner": "certinia",
                     "repo": "ffhttp-googledrive",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:01:10.738Z"
                 },
                 {
                   "node_type": "item",
@@ -352,7 +373,8 @@
                     "owner": "certinia",
                     "repo": "ffhttp-googlesheets",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:01:10.738Z"
                 },
                 {
                   "node_type": "item",
@@ -367,7 +389,8 @@
                     "owner": "certinia",
                     "repo": "ffhttp-dropbox",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:01:10.738Z"
                 },
                 {
                   "node_type": "item",
@@ -382,7 +405,8 @@
                     "owner": "certinia",
                     "repo": "ffhttp-googlecloudprint",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:01:10.738Z"
                 },
                 {
                   "node_type": "item",
@@ -397,7 +421,8 @@
                     "owner": "certinia",
                     "repo": "ffhttp-googlemirror",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:01:10.738Z"
                 }
               ],
               "repo_info": {
@@ -408,7 +433,8 @@
                 "owner": "certinia",
                 "repo": "ffhttp-core",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T23:01:10.738Z"
             },
             {
               "node_type": "item",
@@ -423,7 +449,8 @@
                 "owner": "rsoesemann",
                 "repo": "apex-chainable",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T23:01:10.738Z"
             },
             {
               "node_type": "item",
@@ -438,7 +465,8 @@
                 "owner": "mailtoharshit",
                 "repo": "PolyForce",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T23:01:10.738Z"
             }
           ],
           "description": null,
@@ -460,7 +488,8 @@
                 "owner": "forceworkbench",
                 "repo": "forceworkbench",
                 "stars": 536
-              }
+              },
+              "first_seen": "2026-08-28T23:01:10.738Z"
             },
             {
               "node_type": "item",
@@ -475,7 +504,8 @@
                 "owner": "superfell",
                 "repo": "SoqlX",
                 "stars": 279
-              }
+              },
+              "first_seen": "2026-08-28T23:01:10.738Z"
             },
             {
               "node_type": "item",
@@ -490,7 +520,8 @@
                 "owner": "forcedotcom",
                 "repo": "Analytics-Cloud-Dataset-Utils",
                 "stars": 130
-              }
+              },
+              "first_seen": "2026-08-28T23:01:10.738Z"
             },
             {
               "node_type": "item",
@@ -505,7 +536,8 @@
                 "owner": "amtrack",
                 "repo": "force-dev-tool",
                 "stars": 108
-              }
+              },
+              "first_seen": "2026-08-28T23:01:10.738Z"
             },
             {
               "node_type": "item",
@@ -520,7 +552,8 @@
                 "owner": "jetstreamapp",
                 "repo": "soql-parser-js",
                 "stars": 89
-              }
+              },
+              "first_seen": "2026-08-28T23:01:10.738Z"
             },
             {
               "node_type": "item",
@@ -535,7 +568,8 @@
                 "owner": "forcedotcom",
                 "repo": "cinnamon",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T23:01:10.738Z"
             },
             {
               "node_type": "item",
@@ -550,7 +584,8 @@
                 "owner": "PropicSignifi",
                 "repo": "Sweet.apex",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T23:01:10.738Z"
             },
             {
               "node_type": "item",
@@ -565,7 +600,8 @@
                 "owner": "forcedotcom",
                 "repo": "Salesforce1-Dev-Guide-Setup-Package",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T23:01:10.738Z"
             }
           ],
           "description": null,
@@ -587,7 +623,8 @@
                 "owner": "mailtoharshit",
                 "repo": "gitignore",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T23:01:10.738Z"
             }
           ],
           "description": null,
@@ -609,7 +646,8 @@
                 "owner": "forcedotcom",
                 "repo": "mobile-ui-elements",
                 "stars": 247
-              }
+              },
+              "first_seen": "2026-08-28T23:01:10.738Z"
             },
             {
               "node_type": "item",
@@ -624,7 +662,8 @@
                 "owner": "ccoenraets",
                 "repo": "force-server",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T23:01:10.738Z"
             }
           ],
           "description": null,
@@ -650,7 +689,8 @@
             "owner": "kevinohara80",
             "repo": "nforce",
             "stars": 471
-          }
+          },
+          "first_seen": "2026-08-28T23:01:10.738Z"
         },
         {
           "node_type": "item",
@@ -665,7 +705,8 @@
             "owner": "developerforce",
             "repo": "Force.com-JavaScript-REST-Toolkit",
             "stars": 316
-          }
+          },
+          "first_seen": "2026-08-28T23:01:10.738Z"
         },
         {
           "node_type": "item",
@@ -680,7 +721,8 @@
             "owner": "ccoenraets",
             "repo": "forcejs",
             "stars": 175
-          }
+          },
+          "first_seen": "2026-08-28T23:01:10.738Z"
         },
         {
           "node_type": "item",
@@ -695,7 +737,8 @@
             "owner": "noeticpenguin",
             "repo": "ngForce",
             "stars": 143
-          }
+          },
+          "first_seen": "2026-08-28T23:01:10.738Z"
         },
         {
           "node_type": "item",
@@ -710,7 +753,8 @@
             "owner": "leifg",
             "repo": "formulon",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T23:01:10.738Z"
         },
         {
           "node_type": "item",
@@ -725,7 +769,8 @@
             "owner": "ccoenraets",
             "repo": "forceng",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T23:01:10.738Z"
         },
         {
           "node_type": "item",
@@ -740,7 +785,8 @@
             "owner": "mailtoharshit",
             "repo": "ForceSniffer.Js",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T23:01:10.738Z"
         }
       ],
       "title": "Javascript Libraries for Salesforce"
@@ -761,7 +807,8 @@
             "owner": "stomita",
             "repo": "salesforce-reactjs-spa-starter",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T23:01:10.738Z"
         },
         {
           "node_type": "item",
@@ -776,7 +823,8 @@
             "owner": "mailtoharshit",
             "repo": "ForceSpinner",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T23:01:10.738Z"
         },
         {
           "node_type": "item",
@@ -791,7 +839,8 @@
             "owner": "mailtoharshit",
             "repo": "Feather",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T23:01:10.738Z"
         }
       ],
       "title": "UX Libraries for Salesforce"
@@ -812,7 +861,8 @@
             "owner": "pawl",
             "repo": "awesome-etl",
             "stars": 3586
-          }
+          },
+          "first_seen": "2026-08-28T23:01:10.738Z"
         }
       ],
       "title": "ETL Tools"
@@ -833,7 +883,8 @@
             "owner": "mailtoharshit",
             "repo": "awesome-lightning",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T23:01:10.738Z"
         }
       ],
       "title": "Salesforce Lightning"
@@ -854,7 +905,8 @@
             "owner": "mailtoharshit",
             "repo": "awesome-browser-extensions-for-salesforce",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T23:01:10.738Z"
         }
       ],
       "title": "Salesforce Browser Extensions"
@@ -873,11 +925,12 @@
                 "archived": false,
                 "id": 2338086,
                 "language": "Objective-C",
-                "last_commit": "2026-08-27T21:57:08Z",
+                "last_commit": "2026-08-28T22:29:52Z",
                 "owner": "forcedotcom",
                 "repo": "SalesforceMobileSDK-iOS",
                 "stars": 555
-              }
+              },
+              "first_seen": "2026-08-28T23:01:10.738Z"
             },
             {
               "node_type": "item",
@@ -888,11 +941,12 @@
                 "archived": false,
                 "id": 2782691,
                 "language": "Kotlin",
-                "last_commit": "2026-08-27T20:07:25Z",
+                "last_commit": "2026-08-28T22:01:13Z",
                 "owner": "forcedotcom",
                 "repo": "SalesforceMobileSDK-Android",
                 "stars": 361
-              }
+              },
+              "first_seen": "2026-08-28T23:01:10.738Z"
             },
             {
               "node_type": "item",
@@ -907,7 +961,8 @@
                 "owner": "forcedotcom",
                 "repo": "SalesforceMobileSDK-Windows",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:01:10.738Z"
             }
           ],
           "description": null,
@@ -919,7 +974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:57:00.521Z",
+    "last_updated": "2026-08-28T23:01:10.738Z",
     "original_repository_info": {
       "archived": false,
       "id": 39873325,
