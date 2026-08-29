@@ -156,8 +156,8 @@
                     "id": 95021029,
                     "language": "TypeScript",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-08-29T04:06:40Z",
-                    "open_issues": 94,
+                    "last_commit": "2026-08-29T16:29:15Z",
+                    "open_issues": 93,
                     "owner": "forcedotcom",
                     "repo": "salesforcedx-vscode",
                     "stars": 1033,
@@ -245,11 +245,11 @@
                 "id": 12408168,
                 "language": "Apex",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-25T15:26:31Z",
+                "last_commit": "2026-08-29T06:48:28Z",
                 "open_issues": 37,
                 "owner": "apex-enterprise-patterns",
                 "repo": "fflib-apex-common",
-                "stars": 1009,
+                "stars": 1010,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
@@ -1298,8 +1298,8 @@
                 "id": 2338086,
                 "language": "Objective-C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T22:29:52Z",
-                "open_issues": 8,
+                "last_commit": "2026-08-29T07:26:55Z",
+                "open_issues": 7,
                 "owner": "forcedotcom",
                 "repo": "SalesforceMobileSDK-iOS",
                 "stars": 555,
@@ -1359,7 +1359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:37:08.287Z",
+    "last_updated": "2026-08-29T17:06:01.451Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Salesforce Platform Resources",
