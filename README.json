@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of delightful Salesforce Lightning Resources",
+            "homepage": null,
             "id": 40811879,
             "language": null,
+            "license": "MIT",
             "last_commit": "2021-10-07T07:04:13Z",
+            "open_issues": 6,
             "owner": "mailtoharshit",
             "repo": "awesome-lightning",
-            "stars": 87
+            "stars": 87,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:01:10.738Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of awesome browser extensions for Salesforce.",
+            "homepage": null,
             "id": 40744750,
             "language": null,
+            "license": "MIT",
             "last_commit": "2020-04-21T11:46:29Z",
+            "open_issues": 3,
             "owner": "mailtoharshit",
             "repo": "awesome-browser-extensions-for-salesforce",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:01:10.738Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of delightful Salesforce Articles/Webinar/Videos and Blogs",
+            "homepage": null,
             "id": 41187071,
             "language": null,
+            "license": null,
             "last_commit": "2020-11-15T00:25:48Z",
+            "open_issues": 0,
             "owner": "mailtoharshit",
             "repo": "awesome-salesforce-articles",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:01:10.738Z"
         },
@@ -58,12 +73,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of delightful Heroku Platform Resources ",
+            "homepage": null,
             "id": 40689632,
             "language": null,
+            "license": null,
             "last_commit": "2017-03-16T03:01:21Z",
+            "open_issues": 0,
             "owner": "mailtoharshit",
             "repo": "awesome-heroku",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:01:10.738Z"
         },
@@ -76,12 +96,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stop upgrade, most of features were delivered in https://github.com/xjsender/haoide-vscode",
+                "homepage": null,
                 "id": 29422645,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-03-30T05:08:25Z",
+                "open_issues": 21,
                 "owner": "xjsender",
                 "repo": "haoide",
-                "stars": 198
+                "stars": 198,
+                "topics": [
+                  "apex",
+                  "completion",
+                  "lightning",
+                  "lwc",
+                  "oauth2-login",
+                  "salesforce",
+                  "sublime"
+                ]
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
             },
@@ -92,12 +125,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Apex Plugin for TextMate",
+                "homepage": null,
                 "id": 1277330,
                 "language": "Objective-C",
+                "license": null,
                 "last_commit": "2016-09-20T02:56:55Z",
+                "open_issues": 4,
                 "owner": "superfell",
                 "repo": "ApexMate",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
             },
@@ -113,12 +151,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Salesforce Extensions for VS Code",
+                    "homepage": "https://developer.salesforce.com/tools/vscode",
                     "id": 95021029,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-28T22:35:07Z",
+                    "license": "BSD-3-Clause",
+                    "last_commit": "2026-08-29T04:06:40Z",
+                    "open_issues": 94,
                     "owner": "forcedotcom",
                     "repo": "salesforcedx-vscode",
-                    "stars": 1033
+                    "stars": 1033,
+                    "topics": [
+                      "apex",
+                      "lightning",
+                      "salesforce",
+                      "salesforcedx",
+                      "typescript",
+                      "vscode-debugger",
+                      "vscode-extension",
+                      "vscode-language"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:01:10.738Z"
                 },
@@ -129,12 +181,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ForceCode is a Visual Studio Code extension for Salesforce development",
+                    "homepage": null,
                     "id": 51211947,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-21T00:30:20Z",
+                    "open_issues": 17,
                     "owner": "celador",
                     "repo": "ForceCode",
-                    "stars": 163
+                    "stars": 163,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:01:10.738Z"
                 },
@@ -145,12 +202,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "xysfdx is a Rapid development tool for Salesforce SFDX Development. Support Docker, WSL, Dataloader! Metadata diff with server, retrieve standard sobject. ",
+                    "homepage": "https://marketplace.visualstudio.com/items?itemName=ExiaHuang.xysfdx",
                     "id": 230099595,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-02-08T07:37:41Z",
+                    "open_issues": 4,
                     "owner": "exiahuang",
                     "repo": "xysfdx",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": [
+                      "dataloader",
+                      "docker",
+                      "salesforce",
+                      "sfdc",
+                      "sfdx-cli",
+                      "vscode",
+                      "vscode-extension"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:01:10.738Z"
                 }
@@ -170,12 +240,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Common Apex Library supporting Apex Enterprise Patterns and much more!",
+                "homepage": null,
                 "id": 12408168,
                 "language": "Apex",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-25T15:26:31Z",
+                "open_issues": 37,
                 "owner": "apex-enterprise-patterns",
                 "repo": "fflib-apex-common",
-                "stars": 1009
+                "stars": 1009,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
             },
@@ -186,12 +261,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Apex mocking framework for true unit testing in Salesforce, with Stub API support",
+                "homepage": null,
                 "id": 19314326,
                 "language": "Apex",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-13T16:05:41Z",
+                "open_issues": 11,
                 "owner": "apex-enterprise-patterns",
                 "repo": "fflib-apex-mocks",
-                "stars": 460
+                "stars": 460,
+                "topics": [
+                  "apex",
+                  "mock",
+                  "stub-api",
+                  "unit-test"
+                ]
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
             },
@@ -202,12 +287,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apex Wrapper for the Salesforce Metadata API",
+                "homepage": null,
                 "id": 6174074,
                 "language": "Apex",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-08-19T11:03:09Z",
+                "open_issues": 94,
                 "owner": "certinia",
                 "repo": "apex-mdapi",
-                "stars": 717
+                "stars": 717,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
             },
@@ -218,12 +308,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generic DI library with support for Apex, Triggers, Visualforce and Lightning",
+                "homepage": null,
                 "id": 139998055,
                 "language": "Apex",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-07-06T02:26:24Z",
+                "open_issues": 27,
                 "owner": "apex-enterprise-patterns",
                 "repo": "force-di",
-                "stars": 239
+                "stars": 239,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
             },
@@ -234,12 +329,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Samples application illustrating the Apex Enterprise Patterns library",
+                "homepage": null,
                 "id": 12540485,
                 "language": "Apex",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-27T15:52:40Z",
+                "open_issues": 11,
                 "owner": "apex-enterprise-patterns",
                 "repo": "fflib-apex-common-samplecode",
-                "stars": 218
+                "stars": 218,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
             },
@@ -250,12 +350,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A way to simplify your Salesforce data creation and method stubbing.",
+                "homepage": null,
                 "id": 145292590,
                 "language": "Apex",
+                "license": "Apache-2.0",
                 "last_commit": "2023-04-17T10:32:20Z",
+                "open_issues": 3,
                 "owner": "apexfarm",
                 "repo": "ApexTestKit",
-                "stars": 163
+                "stars": 163,
+                "topics": [
+                  "apex-test",
+                  "bdd",
+                  "bdd-style",
+                  "mock",
+                  "salesforce"
+                ]
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
             },
@@ -266,12 +377,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A dynamic SOQL and SOSL query builder on Salesforce.com platform",
+                "homepage": "https://propicsignifi.github.io/query-apex/",
                 "id": 131808532,
                 "language": "Apex",
+                "license": "MIT",
                 "last_commit": "2023-12-26T14:14:14Z",
+                "open_issues": 34,
                 "owner": "PropicSignifi",
                 "repo": "Query.apex",
-                "stars": 156
+                "stars": 156,
+                "topics": [
+                  "aggregate-function",
+                  "apex",
+                  "database-api",
+                  "dynamic-query",
+                  "injection",
+                  "query",
+                  "salesforce",
+                  "salesforce-developers",
+                  "soql",
+                  "soql-builder",
+                  "soql-query",
+                  "sosl",
+                  "sosl-search"
+                ]
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
             },
@@ -282,12 +412,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enterprise Security API for the Apex language on the Force.com platform.",
+                "homepage": null,
                 "id": 37993731,
                 "language": "Apex",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-06-02T18:17:23Z",
+                "open_issues": 4,
                 "owner": "forcedotcom",
                 "repo": "force-dot-com-esapi",
-                "stars": 129
+                "stars": 129,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
             },
@@ -298,12 +433,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flexible and highly customizable Visualforce table grid component. Salesforce.com Classic Look and Feel. ",
+                "homepage": null,
                 "id": 7523922,
                 "language": "Apex",
+                "license": "MIT",
                 "last_commit": "2023-10-18T14:53:08Z",
+                "open_issues": 11,
                 "owner": "rsoesemann",
                 "repo": "visualforce-table-grid",
-                "stars": 124
+                "stars": 124,
+                "topics": [
+                  "apex",
+                  "grid-visualforce-component",
+                  "jquery-ui",
+                  "salesforce",
+                  "tab",
+                  "tablegrid"
+                ]
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
             },
@@ -314,12 +461,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create UML diagrams from Apex code using the Tooling API",
+                "homepage": null,
                 "id": 13907073,
                 "language": "JavaScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2019-01-21T07:25:05Z",
+                "open_issues": 6,
                 "owner": "afawcett",
                 "repo": "apex-umlcanvas",
-                "stars": 111
+                "stars": 111,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
             },
@@ -330,12 +482,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Functional utility library for Apex",
+                "homepage": "https://propicsignifi.github.io/r-apex",
                 "id": 131224466,
                 "language": "Apex",
+                "license": "MIT",
                 "last_commit": "2023-02-22T15:23:32Z",
+                "open_issues": 10,
                 "owner": "PropicSignifi",
                 "repo": "R.apex",
-                "stars": 106
+                "stars": 106,
+                "topics": [
+                  "apex",
+                  "functional-programming",
+                  "lodash",
+                  "ramda",
+                  "salesforce",
+                  "salesforce-developers"
+                ]
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
             },
@@ -351,12 +515,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Apex framework to provide API calls for Google Drive",
+                    "homepage": null,
                     "id": 29918526,
                     "language": "Apex",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2021-02-15T20:30:55Z",
+                    "open_issues": 2,
                     "owner": "certinia",
                     "repo": "ffhttp-googledrive",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:01:10.738Z"
                 },
@@ -367,12 +536,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Apex framework to provide API calls for Google Sheets",
+                    "homepage": null,
                     "id": 30363311,
                     "language": "Apex",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2017-12-06T09:07:24Z",
+                    "open_issues": 1,
                     "owner": "certinia",
                     "repo": "ffhttp-googlesheets",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:01:10.738Z"
                 },
@@ -383,12 +557,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Apex framework to provide API calls for Dropbox",
+                    "homepage": null,
                     "id": 29868340,
                     "language": "Apex",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2015-01-28T12:01:35Z",
+                    "open_issues": 1,
                     "owner": "certinia",
                     "repo": "ffhttp-dropbox",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:01:10.738Z"
                 },
@@ -399,12 +578,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Apex framework to provide API calls for Google Cloud Print",
+                    "homepage": null,
                     "id": 30301606,
                     "language": "Apex",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2018-04-03T08:22:11Z",
+                    "open_issues": 1,
                     "owner": "certinia",
                     "repo": "ffhttp-googlecloudprint",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:01:10.738Z"
                 },
@@ -415,24 +599,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Apex framework to provide API calls for Google Mirror",
+                    "homepage": null,
                     "id": 30304852,
                     "language": "Apex",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2015-02-05T09:53:29Z",
+                    "open_issues": 0,
                     "owner": "certinia",
                     "repo": "ffhttp-googlemirror",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:01:10.738Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Apex framework to provide functionality for HTTP callouts",
+                "homepage": null,
                 "id": 29525469,
                 "language": "Apex",
+                "license": "BSD-3-Clause",
                 "last_commit": "2020-06-26T08:09:42Z",
+                "open_issues": 3,
                 "owner": "certinia",
                 "repo": "ffhttp-core",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
             },
@@ -443,12 +637,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chain Asynchronous Apex in a readable and flexible way without hardcoding the successor. ",
+                "homepage": null,
                 "id": 166958987,
                 "language": "Apex",
+                "license": "MIT",
                 "last_commit": "2024-09-04T14:17:14Z",
+                "open_issues": 2,
                 "owner": "rsoesemann",
                 "repo": "apex-chainable",
-                "stars": 56
+                "stars": 56,
+                "topics": [
+                  "apex-batches",
+                  "asynchronous-programming",
+                  "batch",
+                  "batch-chains",
+                  "clean-code",
+                  "fluent-api",
+                  "framework",
+                  "queueable",
+                  "salesforce-apex",
+                  "schedulable",
+                  "successor-batch"
+                ]
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
             },
@@ -459,12 +670,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PolyForce is the project started as an idea with a motive create polymer applications/components that derive data from Salesforce, The idea create a robust set of polymer components that can mutually be shared with each other and on the other hand provide a working sample for developers to learn and get inspired to built more components",
+                "homepage": "http://www.oyecode.com",
                 "id": 21417333,
                 "language": null,
+                "license": null,
                 "last_commit": "2015-01-16T07:55:07Z",
+                "open_issues": 0,
                 "owner": "mailtoharshit",
                 "repo": "PolyForce",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
             }
@@ -482,12 +698,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web-based suite of tools for administrators and developers to interact with the Force.com APIs",
+                "homepage": "workbench.developerforce.com",
                 "id": 7849716,
                 "language": "PHP",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-07-25T02:38:06Z",
+                "open_issues": 2,
                 "owner": "forceworkbench",
                 "repo": "forceworkbench",
-                "stars": 536
+                "stars": 536,
+                "topics": [
+                  "salesforce"
+                ]
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
             },
@@ -498,12 +721,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SoqlXplorer is an awesome tool for developers using the Salesforce.com platform.",
+                "homepage": "https://pocketsoap.com/osx/soqlx/",
                 "id": 4539309,
                 "language": "Objective-C",
+                "license": "NOASSERTION",
                 "last_commit": "2023-08-20T17:29:29Z",
+                "open_issues": 20,
                 "owner": "superfell",
                 "repo": "SoqlX",
-                "stars": 279
+                "stars": 279,
+                "topics": [
+                  "apex",
+                  "osx",
+                  "salesforce",
+                  "schema",
+                  "soql"
+                ]
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
             },
@@ -514,12 +748,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Friendly utility to load your on-prem data, whether large or small,  to Einstein Analytics Datasets, with useful features such as autoloading, dataflow control and dataset inspection.",
+                "homepage": null,
                 "id": 25543574,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-02T18:17:18Z",
+                "open_issues": 39,
                 "owner": "forcedotcom",
                 "repo": "Analytics-Cloud-Dataset-Utils",
-                "stars": 130
+                "stars": 130,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
             },
@@ -530,12 +769,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[DEPRECATED] Command line tool supporting the Force.com development lifecycle",
+                "homepage": null,
                 "id": 42260617,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-10-23T13:21:47Z",
+                "open_issues": 4,
                 "owner": "amtrack",
                 "repo": "force-dev-tool",
-                "stars": 108
+                "stars": 108,
+                "topics": [
+                  "cli",
+                  "salesforce"
+                ]
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
             },
@@ -546,12 +793,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Javascript SOQL parser",
+                "homepage": "https://soql-parser-js.getjetstream.app/",
                 "id": 145348161,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-18T12:48:06Z",
+                "open_issues": 8,
                 "owner": "jetstreamapp",
                 "repo": "soql-parser-js",
-                "stars": 89
+                "stars": 89,
+                "topics": [
+                  "salesforce",
+                  "soql"
+                ]
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
             },
@@ -562,12 +817,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Cinnamon is a Force.com app that enables you to build and run Selenium tests to validate custom UI pages with Visualforce/Javascript in your Salesforce org.",
+                "homepage": "http://forcedotcom.github.io/cinnamon",
                 "id": 19547593,
                 "language": "Apex",
+                "license": null,
                 "last_commit": "2018-06-26T20:06:21Z",
+                "open_issues": 23,
                 "owner": "forcedotcom",
                 "repo": "cinnamon",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
             },
@@ -578,12 +838,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Next Generation of Apex Development",
+                "homepage": "https://click-to-cloud.github.io/sweet-apex",
                 "id": 137870036,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-08-12T22:35:57Z",
+                "open_issues": 4,
                 "owner": "PropicSignifi",
                 "repo": "Sweet.apex",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "annotation",
+                  "apex",
+                  "code-generation",
+                  "salesforce-apex",
+                  "transpiler"
+                ]
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
             },
@@ -594,12 +865,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 13691212,
                 "language": null,
+                "license": null,
                 "last_commit": "2018-06-26T20:06:19Z",
+                "open_issues": 4,
                 "owner": "forcedotcom",
                 "repo": "Salesforce1-Dev-Guide-Setup-Package",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
             }
@@ -617,12 +893,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ".gitIgnore file for Salesforce or Force.com Projects",
+                "homepage": null,
                 "id": 44294139,
                 "language": null,
+                "license": null,
                 "last_commit": "2017-01-20T16:10:55Z",
+                "open_issues": 0,
                 "owner": "mailtoharshit",
                 "repo": "gitignore",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "gitignore",
+                  "salesforce"
+                ]
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
             }
@@ -640,12 +924,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Custom elements to build beautiful mobile applications on salesforce.",
+                "homepage": "https://developer.salesforce.com/mobile/services/mobile-packs",
                 "id": 13843157,
                 "language": "JavaScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-02-12T08:35:29Z",
+                "open_issues": 7,
                 "owner": "forcedotcom",
                 "repo": "mobile-ui-elements",
-                "stars": 247
+                "stars": 247,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
             },
@@ -656,12 +945,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Development server for Force.com",
+                "homepage": null,
                 "id": 25527405,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-06-19T13:16:37Z",
+                "open_issues": 9,
                 "owner": "ccoenraets",
                 "repo": "force-server",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
             }
@@ -683,12 +977,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "nforce is a node.js salesforce REST API wrapper for force.com, database.com, and salesforce.com",
+            "homepage": null,
             "id": 4209411,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-06-17T19:26:24Z",
+            "open_issues": 21,
             "owner": "kevinohara80",
             "repo": "nforce",
-            "stars": 471
+            "stars": 471,
+            "topics": [
+              "nforce",
+              "salesforce",
+              "salesforce-api",
+              "salesforce-developers",
+              "sfdc",
+              "sfdc-deployment"
+            ]
           },
           "first_seen": "2026-08-28T23:01:10.738Z"
         },
@@ -699,12 +1005,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "ForceTK - a minimal Force.com REST API for JavaScript apps",
+            "homepage": null,
             "id": 1542897,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-01-10T13:10:31Z",
+            "open_issues": 39,
             "owner": "developerforce",
             "repo": "Force.com-JavaScript-REST-Toolkit",
-            "stars": 316
+            "stars": 316,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:01:10.738Z"
         },
@@ -715,12 +1026,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Micro library to use the Salesforce REST APIs in JavaScript Apps",
+            "homepage": null,
             "id": 22922346,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-01-12T20:12:03Z",
+            "open_issues": 17,
             "owner": "ccoenraets",
             "repo": "forcejs",
-            "stars": 175
+            "stars": 175,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:01:10.738Z"
         },
@@ -731,12 +1047,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Force.com && Angular.js integration framework.",
+            "homepage": "noeticpenguin.github.io/ngForce",
             "id": 10037797,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-01-22T00:43:38Z",
+            "open_issues": 6,
             "owner": "noeticpenguin",
             "repo": "ngForce",
-            "stars": 143
+            "stars": 143,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:01:10.738Z"
         },
@@ -747,12 +1068,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Salesforce Formula Parser implemented in ES2017. Live demo at",
+            "homepage": "https://formulon.io",
             "id": 52385255,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-06T20:22:04Z",
+            "open_issues": 47,
             "owner": "leifg",
             "repo": "formulon",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:01:10.738Z"
         },
@@ -763,12 +1089,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Micro-Library to use Salesforce REST API in AngularJS apps",
+            "homepage": null,
             "id": 22922494,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-04-17T23:14:28Z",
+            "open_issues": 15,
             "owner": "ccoenraets",
             "repo": "forceng",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:01:10.738Z"
         },
@@ -779,12 +1110,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "One stop shop for device detection including Salesforce Context",
+            "homepage": null,
             "id": 47101126,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-04-11T18:28:11Z",
+            "open_issues": 0,
             "owner": "mailtoharshit",
             "repo": "ForceSniffer.Js",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:01:10.738Z"
         }
@@ -801,12 +1137,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A template project to create ReactJS-based single page application on Salesforce, with automatic build script (Gulp.js)",
+            "homepage": null,
             "id": 31217250,
             "language": "CoffeeScript",
+            "license": null,
             "last_commit": "2015-02-25T11:24:26Z",
+            "open_issues": 0,
             "owner": "stomita",
             "repo": "salesforce-reactjs-spa-starter",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:01:10.738Z"
         },
@@ -817,12 +1158,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Killer Loaders inspired by Material Design for Salesforce UX",
+            "homepage": "http://mailtoharshit.github.io/ForceSpinner/",
             "id": 48418380,
             "language": "CSS",
+            "license": null,
             "last_commit": "2016-02-12T02:08:59Z",
+            "open_issues": 0,
             "owner": "mailtoharshit",
             "repo": "ForceSpinner",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:01:10.738Z"
         },
@@ -833,12 +1179,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Feather : Library to showcase, usage of Google MDL on Salesforce",
+            "homepage": "http://mailtoharshit.github.io/Feather/",
             "id": 38664804,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2018-12-16T22:41:19Z",
+            "open_issues": 0,
             "owner": "mailtoharshit",
             "repo": "Feather",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:01:10.738Z"
         }
@@ -855,12 +1206,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome ETL frameworks, libraries, and software.",
+            "homepage": null,
             "id": 43790983,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-05-01T06:27:21Z",
+            "open_issues": 11,
             "owner": "pawl",
             "repo": "awesome-etl",
-            "stars": 3586
+            "stars": 3586,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "etl"
+            ]
           },
           "first_seen": "2026-08-28T23:01:10.738Z"
         }
@@ -877,12 +1237,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of delightful Salesforce Lightning Resources",
+            "homepage": null,
             "id": 40811879,
             "language": null,
+            "license": "MIT",
             "last_commit": "2021-10-07T07:04:13Z",
+            "open_issues": 6,
             "owner": "mailtoharshit",
             "repo": "awesome-lightning",
-            "stars": 87
+            "stars": 87,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:01:10.738Z"
         }
@@ -899,12 +1264,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of awesome browser extensions for Salesforce.",
+            "homepage": null,
             "id": 40744750,
             "language": null,
+            "license": "MIT",
             "last_commit": "2020-04-21T11:46:29Z",
+            "open_issues": 3,
             "owner": "mailtoharshit",
             "repo": "awesome-browser-extensions-for-salesforce",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:01:10.738Z"
         }
@@ -923,12 +1293,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "iOS SDK for Salesforce",
+                "homepage": null,
                 "id": 2338086,
                 "language": "Objective-C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T22:29:52Z",
+                "open_issues": 8,
                 "owner": "forcedotcom",
                 "repo": "SalesforceMobileSDK-iOS",
-                "stars": 555
+                "stars": 555,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
             },
@@ -939,12 +1314,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android SDK for Salesforce",
+                "homepage": null,
                 "id": 2782691,
                 "language": "Kotlin",
-                "last_commit": "2026-08-28T22:01:13Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T01:36:58Z",
+                "open_issues": 6,
                 "owner": "forcedotcom",
                 "repo": "SalesforceMobileSDK-Android",
-                "stars": 361
+                "stars": 361,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
             },
@@ -955,12 +1335,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Windows SDK for Salesforce",
+                "homepage": null,
                 "id": 20311040,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2022-02-12T08:35:54Z",
+                "open_issues": 0,
                 "owner": "forcedotcom",
                 "repo": "SalesforceMobileSDK-Windows",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
             }
@@ -974,15 +1359,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:01:10.738Z",
+    "last_updated": "2026-08-29T04:37:08.287Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of delightful Salesforce Platform Resources",
+      "homepage": null,
       "id": 39873325,
       "language": null,
+      "license": null,
       "last_commit": "2023-07-20T13:55:57Z",
+      "open_issues": 6,
       "owner": "mailtoharshit",
       "repo": "awesome-salesforce",
-      "stars": 804
+      "stars": 804,
+      "topics": []
     },
     "original_repository_sha": "951c3c9b661e5f64a24ca941d41c9d9176bc0f26",
     "enhanced_repository": "enhansome/enhansome-salesforce",
