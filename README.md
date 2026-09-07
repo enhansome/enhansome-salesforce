@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/Spring19Logo.gif" align="right" width="220" height="400">
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,548 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,924 | 🐛 106 | 📅 2026-09-02
 
 [![Join the chat at https://gitter.im/mailtoharshit/awesome-salesforce](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mailtoharshit/awesome-salesforce?utm_source=badge\&utm_medium=badge\&utm_campaign=pr-badge\&utm_content=badge)
 
 > Useful resources for creating apps with [Salesforce](https://login.salesforce.com/)
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,548 | 🐛 106 | 📅 2026-09-02 list thing. You might also like to read complete [awesome-list](https://github.com/sindresorhus/awesome) ⭐ 503,548 | 🐛 106 | 📅 2026-09-02.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,924 | 🐛 106 | 📅 2026-09-02 list thing. You might also like to read complete [awesome-list](https://github.com/sindresorhus/awesome) ⭐ 503,924 | 🐛 106 | 📅 2026-09-02.*
 
 ## What is Awesome Salesforce ?
 
@@ -14,7 +14,7 @@ Awesome is awesome project started by [Sindre Sorhus](https://github.com/sindres
 
 ## What makes for an awesome list?
 
-Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/master/contributing.md) ⭐ 805 | 🐛 6 | 📅 2023-07-20 and ensure your list complies.
+Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/master/contributing.md) ⭐ 806 | 🐛 6 | 📅 2023-07-20 and ensure your list complies.
 
 ## The Fiery Meter of AWSome
 
@@ -35,7 +35,7 @@ Each repo listed meets at least one of the following requirements:
 
 100+ stars for community repos is not a strict requirement, it only serves as a guideline for the initial compilation.  If you can vouch for the awesomeness of a repo with < 100 stars and you can explain why it should be listed, please submit a pull request.
 
-Pull requests might be left open for a period of time to let the community chime in and vouch for it.  An official repo from [aws](https://github.com/aws) or [awslabs](https://github.com/awslabs) can be removed if the community wishes.  Check out the [awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 503,548 | 🐛 106 | 📅 2026-09-02.
+Pull requests might be left open for a period of time to let the community chime in and vouch for it.  An official repo from [aws](https://github.com/aws) or [awslabs](https://github.com/awslabs) can be removed if the community wishes.  Check out the [awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 503,924 | 🐛 106 | 📅 2026-09-02.
 
 Read Related Awesome Pages :
 
@@ -89,7 +89,7 @@ The previously popular Mavensmate editor(<http://mavensmate.com/>) has now cease
 * [Eclipse Plugin](http://media.developerforce.com/force-ide/eclipse42) - Based on Eclipse Platform, supported and packaged by Salesforce.com
 * [Atom Plugin](https://github.com/joeferraro/MavensMate-Atom)- MavensMate plugin for building Salesforce.com/Force.com/Salesforce1 applications inside GitHub's Atom text editor
 * Visual Studio Code
-  * [Salesforce Extensions for VS Code](https://github.com/forcedotcom/salesforcedx-vscode) ⭐ 1,033 | 🐛 93 | 🌐 TypeScript | 📅 2026-09-06 are the official Salesforce VS Code extensions.
+  * [Salesforce Extensions for VS Code](https://github.com/forcedotcom/salesforcedx-vscode) ⭐ 1,033 | 🐛 96 | 🌐 TypeScript | 📅 2026-09-07 are the official Salesforce VS Code extensions.
   * [ForceCode](https://github.com/celador/ForceCode) ⭐ 163 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-21 is a Visual Studio Code extension for Salesforce development
   * [xysfdx](https://github.com/exiahuang/xysfdx) ⭐ 11 | 🐛 4 | 🌐 TypeScript | 📅 2025-02-08 is a Visual Studio Code extension for Salesforce SFDX Development.
   * [Auto-complete +](https://marketplace.visualstudio.com/items?itemName=chuckjonas.apex-autocomplete) Provides auto-completions for Apex & Visualforce, Go-To & Peek Definition and Realtime Syntax Checking
@@ -111,10 +111,10 @@ Read cruciated list of [Awesome-list-of-browser-extensions-of-salesforce](https:
 ### Packages and Libraries supporting salesforce
 
 * [Apex Commons](https://github.com/financialforcedev/fflib-apex-common) ⭐ 1,012 | 🐛 36 | 🌐 Apex | 📅 2026-09-03 - Common Apex Library supporting Apex Enterprise Patterns and much more!
-  Must deploy [ApexMocks](https://github.com/financialforcedev/fflib-apex-mocks) ⭐ 462 | 🐛 11 | 🌐 Apex | 📅 2026-08-13 before deploying this library.Also see [MavensMate Templates](http://andyinthecloud.com/2014/05/23/mavensmate-templates-and-apex-enterprise-patterns/)<br/> <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-common"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
+  Must deploy [ApexMocks](https://github.com/financialforcedev/fflib-apex-mocks) ⭐ 462 | 🐛 11 | 🌐 Apex | 📅 2026-09-07 before deploying this library.Also see [MavensMate Templates](http://andyinthecloud.com/2014/05/23/mavensmate-templates-and-apex-enterprise-patterns/)<br/> <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-common"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
   </a>
 
-* [Apex mocks](https://github.com/financialforcedev/fflib-apex-mocks) ⭐ 462 | 🐛 11 | 🌐 Apex | 📅 2026-08-13 - ApexMocks is a mocking framework for the Force.com Apex language.It derives it's inspiration from the well known Java mocking framework Mockito <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-mocks"> <img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png"> </a>
+* [Apex mocks](https://github.com/financialforcedev/fflib-apex-mocks) ⭐ 462 | 🐛 11 | 🌐 Apex | 📅 2026-09-07 - ApexMocks is a mocking framework for the Force.com Apex language.It derives it's inspiration from the well known Java mocking framework Mockito <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-mocks"> <img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png"> </a>
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/package.png" align="right" width="220">
 
@@ -352,7 +352,7 @@ Design and build apps that separate UI, logic, and data using Mobile Pack for An
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](https://github.com/mailtoharshit/awesome-salesforce/blob/master/contributing.md) ⭐ 805 | 🐛 6 | 📅 2023-07-20 first.
+Contributions welcome! Read the [contribution guidelines](https://github.com/mailtoharshit/awesome-salesforce/blob/master/contributing.md) ⭐ 806 | 🐛 6 | 📅 2023-07-20 first.
 
 ## BugReport-PullRequest
 
@@ -366,4 +366,4 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/mai
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
