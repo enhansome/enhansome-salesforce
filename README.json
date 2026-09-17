@@ -156,8 +156,8 @@
                     "id": 95021029,
                     "language": "TypeScript",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-09-16T17:08:04Z",
-                    "open_issues": 96,
+                    "last_commit": "2026-09-17T17:34:22Z",
+                    "open_issues": 94,
                     "owner": "forcedotcom",
                     "repo": "salesforcedx-vscode",
                     "stars": 1035,
@@ -245,7 +245,7 @@
                 "id": 12408168,
                 "language": "Apex",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-11T21:51:32Z",
+                "last_commit": "2026-09-16T20:21:42Z",
                 "open_issues": 37,
                 "owner": "apex-enterprise-patterns",
                 "repo": "fflib-apex-common",
@@ -730,7 +730,7 @@
                 "open_issues": 20,
                 "owner": "superfell",
                 "repo": "SoqlX",
-                "stars": 279,
+                "stars": 280,
                 "topics": [
                   "apex",
                   "osx",
@@ -1302,7 +1302,7 @@
                 "open_issues": 5,
                 "owner": "forcedotcom",
                 "repo": "SalesforceMobileSDK-iOS",
-                "stars": 553,
+                "stars": 552,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
@@ -1319,8 +1319,8 @@
                 "id": 2782691,
                 "language": "Kotlin",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-15T23:57:16Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-17T01:16:34Z",
+                "open_issues": 6,
                 "owner": "forcedotcom",
                 "repo": "SalesforceMobileSDK-Android",
                 "stars": 361,
@@ -1359,7 +1359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T17:37:04.721Z",
+    "last_updated": "2026-09-17T17:37:08.261Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Salesforce Platform Resources",
@@ -1371,7 +1371,7 @@
       "open_issues": 8,
       "owner": "mailtoharshit",
       "repo": "awesome-salesforce",
-      "stars": 806,
+      "stars": 805,
       "topics": []
     },
     "original_repository_sha": "951c3c9b661e5f64a24ca941d41c9d9176bc0f26",
