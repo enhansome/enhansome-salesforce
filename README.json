@@ -156,11 +156,11 @@
                     "id": 95021029,
                     "language": "TypeScript",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-09-26T04:07:01Z",
-                    "open_issues": 92,
+                    "last_commit": "2026-09-27T15:21:37Z",
+                    "open_issues": 94,
                     "owner": "forcedotcom",
                     "repo": "salesforcedx-vscode",
-                    "stars": 1034,
+                    "stars": 1035,
                     "topics": [
                       "apex",
                       "lightning",
@@ -798,7 +798,7 @@
                 "id": 145348161,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-05T14:21:38Z",
+                "last_commit": "2026-09-26T18:21:40Z",
                 "open_issues": 8,
                 "owner": "jetstreamapp",
                 "repo": "soql-parser-js",
@@ -1359,7 +1359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T17:07:43.780Z",
+    "last_updated": "2026-09-27T17:43:33.798Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Salesforce Platform Resources",
