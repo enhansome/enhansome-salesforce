@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Awesome Lighting",
-          "description": null,
+          "description": "mailtoharshit/awesome-lightning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "Awesome Browser Extensions",
-          "description": null,
+          "description": "mailtoharshit/awesome-browser-extensions-for-salesforce",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -48,7 +48,7 @@
         {
           "node_type": "item",
           "title": "Awesome Articles",
-          "description": null,
+          "description": "mailtoharshit/awesome-salesforce-articles",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -69,7 +69,7 @@
         {
           "node_type": "item",
           "title": "Awesome Heroku",
-          "description": null,
+          "description": "mailtoharshit/awesome-heroku",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -156,8 +156,8 @@
                     "id": 95021029,
                     "language": "TypeScript",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-02T18:18:33Z",
-                    "open_issues": 96,
+                    "last_commit": "2026-10-03T04:17:08Z",
+                    "open_issues": 97,
                     "owner": "forcedotcom",
                     "repo": "salesforcedx-vscode",
                     "stars": 1035,
@@ -511,7 +511,7 @@
                 {
                   "node_type": "item",
                   "title": "Google Drive",
-                  "description": null,
+                  "description": "certinia/ffhttp-googledrive",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -532,7 +532,7 @@
                 {
                   "node_type": "item",
                   "title": "Google Sheets",
-                  "description": null,
+                  "description": "certinia/ffhttp-googlesheets",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -553,7 +553,7 @@
                 {
                   "node_type": "item",
                   "title": "Dropbox",
-                  "description": null,
+                  "description": "certinia/ffhttp-dropbox",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -574,7 +574,7 @@
                 {
                   "node_type": "item",
                   "title": "Google Cloud Print",
-                  "description": null,
+                  "description": "certinia/ffhttp-googlecloudprint",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -595,7 +595,7 @@
                 {
                   "node_type": "item",
                   "title": "Google Mirror",
-                  "description": null,
+                  "description": "certinia/ffhttp-googlemirror",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1202,7 +1202,7 @@
         {
           "node_type": "item",
           "title": "Some other solutions from awesome-etl list",
-          "description": ".",
+          "description": "pawl/awesome-etl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1359,7 +1359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:23:23.976Z",
+    "last_updated": "2026-10-03T05:06:38.994Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Salesforce Platform Resources",
