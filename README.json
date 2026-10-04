@@ -156,8 +156,8 @@
                     "id": 95021029,
                     "language": "TypeScript",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-03T16:45:21Z",
-                    "open_issues": 100,
+                    "last_commit": "2026-10-04T11:56:42Z",
+                    "open_issues": 97,
                     "owner": "forcedotcom",
                     "repo": "salesforcedx-vscode",
                     "stars": 1035,
@@ -1215,7 +1215,7 @@
             "open_issues": 16,
             "owner": "pawl",
             "repo": "awesome-etl",
-            "stars": 3594,
+            "stars": 3593,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1359,7 +1359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T17:14:12.942Z",
+    "last_updated": "2026-10-04T17:33:36.883Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Salesforce Platform Resources",
