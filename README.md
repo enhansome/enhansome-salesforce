@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/Spring19Logo.gif" align="right" width="220" height="400">
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 517,145 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 517,593 | 🐛 105 | 📅 2026-09-02
 
 [![Join the chat at https://gitter.im/mailtoharshit/awesome-salesforce](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mailtoharshit/awesome-salesforce?utm_source=badge\&utm_medium=badge\&utm_campaign=pr-badge\&utm_content=badge)
 
 > Useful resources for creating apps with [Salesforce](https://login.salesforce.com/)
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 517,145 | 🐛 106 | 📅 2026-09-02 list thing. You might also like to read complete [awesome-list](https://github.com/sindresorhus/awesome) ⭐ 517,145 | 🐛 106 | 📅 2026-09-02.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 517,593 | 🐛 105 | 📅 2026-09-02 list thing. You might also like to read complete [awesome-list](https://github.com/sindresorhus/awesome) ⭐ 517,593 | 🐛 105 | 📅 2026-09-02.*
 
 ## What is Awesome Salesforce ?
 
@@ -35,7 +35,7 @@ Each repo listed meets at least one of the following requirements:
 
 100+ stars for community repos is not a strict requirement, it only serves as a guideline for the initial compilation.  If you can vouch for the awesomeness of a repo with < 100 stars and you can explain why it should be listed, please submit a pull request.
 
-Pull requests might be left open for a period of time to let the community chime in and vouch for it.  An official repo from [aws](https://github.com/aws) or [awslabs](https://github.com/awslabs) can be removed if the community wishes.  Check out the [awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 517,145 | 🐛 106 | 📅 2026-09-02.
+Pull requests might be left open for a period of time to let the community chime in and vouch for it.  An official repo from [aws](https://github.com/aws) or [awslabs](https://github.com/awslabs) can be removed if the community wishes.  Check out the [awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 517,593 | 🐛 105 | 📅 2026-09-02.
 
 Read Related Awesome Pages :
 
@@ -89,7 +89,7 @@ The previously popular Mavensmate editor(<http://mavensmate.com/>) has now cease
 * [Eclipse Plugin](http://media.developerforce.com/force-ide/eclipse42) - Based on Eclipse Platform, supported and packaged by Salesforce.com
 * [Atom Plugin](https://github.com/joeferraro/MavensMate-Atom)- MavensMate plugin for building Salesforce.com/Force.com/Salesforce1 applications inside GitHub's Atom text editor
 * Visual Studio Code
-  * [Salesforce Extensions for VS Code](https://github.com/forcedotcom/salesforcedx-vscode) ⭐ 1,035 | 🐛 93 | 🌐 TypeScript | 📅 2026-10-10 are the official Salesforce VS Code extensions.
+  * [Salesforce Extensions for VS Code](https://github.com/forcedotcom/salesforcedx-vscode) ⭐ 1,036 | 🐛 93 | 🌐 TypeScript | 📅 2026-10-11 are the official Salesforce VS Code extensions.
   * [ForceCode](https://github.com/celador/ForceCode) ⭐ 163 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-21 is a Visual Studio Code extension for Salesforce development
   * [xysfdx](https://github.com/exiahuang/xysfdx) ⭐ 11 | 🐛 4 | 🌐 TypeScript | 📅 2025-02-08 is a Visual Studio Code extension for Salesforce SFDX Development.
   * [Auto-complete +](https://marketplace.visualstudio.com/items?itemName=chuckjonas.apex-autocomplete) Provides auto-completions for Apex & Visualforce, Go-To & Peek Definition and Realtime Syntax Checking
@@ -118,7 +118,7 @@ Read cruciated list of [Awesome-list-of-browser-extensions-of-salesforce](https:
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/package.png" align="right" width="220">
 
-* [Apex Metadata API](https://github.com/financialforcedev/apex-mdapi) ⭐ 717 | 🐛 94 | 🌐 Apex | 📅 2025-08-19 - Apex Wrapper for the Salesforce Metadata API <br/> <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=apex-mdapi"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
+* [Apex Metadata API](https://github.com/financialforcedev/apex-mdapi) ⭐ 718 | 🐛 94 | 🌐 Apex | 📅 2025-08-19 - Apex Wrapper for the Salesforce Metadata API <br/> <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=apex-mdapi"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
   </a>
 
 * [Force DI](https://github.com/afawcett/force-di) ⭐ 240 | 🐛 27 | 🌐 Apex | 📅 2026-08-30 - Generic [dependency injection](https://en.wikipedia.org/wiki/Dependency_injection) (DI) library with support for injecting Apex, Visualforce, Lightning, and Flows at runtime.
@@ -171,13 +171,13 @@ Read cruciated list of [Awesome-list-of-browser-extensions-of-salesforce](https:
 
 * [Workbench](https://github.com/ryanbrainard/forceworkbench) ⭐ 538 | 🐛 1 | 🌐 PHP | 📅 2026-09-22- Workbench is a powerful, web-based suite of tools designed for administrators and developers to interact with Salesforce.com organizations via the Force.com APIs.
 
-* [SoqlXplorer](https://github.com/superfell/SoqlX) ⭐ 280 | 🐛 19 | 🌐 Objective-C | 📅 2023-08-20- SoqlXplorer is an awesome tool for developers using the Salesforce.com platform.
+* [SoqlXplorer](https://github.com/superfell/SoqlX) ⭐ 281 | 🐛 19 | 🌐 Objective-C | 📅 2023-08-20- SoqlXplorer is an awesome tool for developers using the Salesforce.com platform.
 
 * [Analytics-Cloud-Dataset-Utils](https://github.com/forcedotcom/Analytics-Cloud-Dataset-Utils) ⭐ 130 | 🐛 39 | 🌐 JavaScript | 📅 2026-06-02- Utility to load external data into Analytics Cloud datasets, and transform existing datasets.
 
 * [force-dev-tool](https://github.com/amtrack/force-dev-tool) ⚠️ Archived - Command line tool supporting the Force.com development lifecycle.
 
-* [soql-parser-js](https://github.com/paustint/soql-parser-js) ⭐ 89 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-10 - JavaScript library for parsing SOQL queries, composing SOQL queries, and formatting SOQL queries.
+* [soql-parser-js](https://github.com/paustint/soql-parser-js) ⭐ 90 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-11 - JavaScript library for parsing SOQL queries, composing SOQL queries, and formatting SOQL queries.
 
 * [Cinnamon](https://github.com/forcedotcom/cinnamon) ⚠️ Archived-Cinnamon is a Force.com app that enables you to build and run Selenium tests to validate custom UI pages with Visualforce/Javascript in your Salesforce org.
 
@@ -250,7 +250,7 @@ Read cruciated list of [Awesome-list-of-browser-extensions-of-salesforce](https:
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/ETL.jpg" align="right" width="220">
 
-* Some other solutions from [awesome-etl list](https://github.com/pawl/awesome-etl) ⭐ 3,593 | 🐛 16 | 📅 2026-05-01.
+* Some other solutions from [awesome-etl list](https://github.com/pawl/awesome-etl) ⭐ 3,593 | 🐛 17 | 📅 2026-05-01.
 * [Data Loader](https://developer.salesforce.com/page/Data_Loader) - Is an easy to use graphical tool that helps you to get your data into Salesforce objects.
 * [SFXOrgData](https://www.sfapex.com/) - Copy data from your Production or Full Sandbox environment to Developer/Dev Pro sandboxes.
 * [DreamFactory Monarch](http://www.dreamfactory.com/force.com/monarch) - Migrate related sets of data between Orgs.
@@ -270,7 +270,7 @@ Read cruciated list of [Awesome-list-of-browser-extensions-of-salesforce](https:
 
 ### Mobile SDK
 
-* [Salesfoce MobileSDK for iOS](https://github.com/forcedotcom/SalesforceMobileSDK-iOS) ⭐ 553 | 🐛 5 | 🌐 Objective-C | 📅 2026-10-09-If you'd like to work with the source code of the SDK itself, you've come to the right place! You can browse sample app source code and debug down through the layers to get a feel for how everything works under the covers.
+* [Salesfoce MobileSDK for iOS](https://github.com/forcedotcom/SalesforceMobileSDK-iOS) ⭐ 554 | 🐛 5 | 🌐 Objective-C | 📅 2026-10-09-If you'd like to work with the source code of the SDK itself, you've come to the right place! You can browse sample app source code and debug down through the layers to get a feel for how everything works under the covers.
 
 * [Salesfoce MobileSDK for Andriod](https://github.com/forcedotcom/SalesforceMobileSDK-Android) ⭐ 361 | 🐛 7 | 🌐 Kotlin | 📅 2026-10-10- Source repository for the Salesforce Mobile SDK for Android.
 
@@ -366,4 +366,4 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/mai
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._

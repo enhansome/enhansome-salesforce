@@ -156,11 +156,11 @@
                     "id": 95021029,
                     "language": "TypeScript",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-10T13:08:57Z",
+                    "last_commit": "2026-10-11T03:07:55Z",
                     "open_issues": 93,
                     "owner": "forcedotcom",
                     "repo": "salesforcedx-vscode",
-                    "stars": 1035,
+                    "stars": 1036,
                     "topics": [
                       "apex",
                       "lightning",
@@ -296,7 +296,7 @@
                 "open_issues": 94,
                 "owner": "certinia",
                 "repo": "apex-mdapi",
-                "stars": 717,
+                "stars": 718,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
@@ -730,7 +730,7 @@
                 "open_issues": 19,
                 "owner": "superfell",
                 "repo": "SoqlX",
-                "stars": 280,
+                "stars": 281,
                 "topics": [
                   "apex",
                   "osx",
@@ -798,11 +798,11 @@
                 "id": 145348161,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-10T16:18:44Z",
+                "last_commit": "2026-10-11T14:16:34Z",
                 "open_issues": 9,
                 "owner": "jetstreamapp",
                 "repo": "soql-parser-js",
-                "stars": 89,
+                "stars": 90,
                 "topics": [
                   "salesforce",
                   "soql"
@@ -1212,7 +1212,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-05-01T06:27:21Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "pawl",
             "repo": "awesome-etl",
             "stars": 3593,
@@ -1302,7 +1302,7 @@
                 "open_issues": 5,
                 "owner": "forcedotcom",
                 "repo": "SalesforceMobileSDK-iOS",
-                "stars": 553,
+                "stars": 554,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
@@ -1359,7 +1359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T17:50:19.328Z",
+    "last_updated": "2026-10-11T18:03:01.520Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Salesforce Platform Resources",
@@ -1371,7 +1371,7 @@
       "open_issues": 9,
       "owner": "mailtoharshit",
       "repo": "awesome-salesforce",
-      "stars": 806,
+      "stars": 807,
       "topics": []
     },
     "original_repository_sha": "951c3c9b661e5f64a24ca941d41c9d9176bc0f26",
