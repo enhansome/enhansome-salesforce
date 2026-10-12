@@ -156,8 +156,8 @@
                     "id": 95021029,
                     "language": "TypeScript",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-11T03:07:55Z",
-                    "open_issues": 93,
+                    "last_commit": "2026-10-12T21:29:54Z",
+                    "open_issues": 92,
                     "owner": "forcedotcom",
                     "repo": "salesforcedx-vscode",
                     "stars": 1036,
@@ -707,7 +707,7 @@
                 "open_issues": 1,
                 "owner": "forceworkbench",
                 "repo": "forceworkbench",
-                "stars": 538,
+                "stars": 539,
                 "topics": [
                   "salesforce"
                 ]
@@ -1215,7 +1215,7 @@
             "open_issues": 17,
             "owner": "pawl",
             "repo": "awesome-etl",
-            "stars": 3593,
+            "stars": 3594,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1302,7 +1302,7 @@
                 "open_issues": 5,
                 "owner": "forcedotcom",
                 "repo": "SalesforceMobileSDK-iOS",
-                "stars": 554,
+                "stars": 553,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
@@ -1359,7 +1359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T18:03:01.520Z",
+    "last_updated": "2026-10-12T21:43:10.524Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Salesforce Platform Resources",
