@@ -156,8 +156,8 @@
                     "id": 95021029,
                     "language": "TypeScript",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-13T19:42:17Z",
-                    "open_issues": 92,
+                    "last_commit": "2026-10-14T17:53:19Z",
+                    "open_issues": 93,
                     "owner": "forcedotcom",
                     "repo": "salesforcedx-vscode",
                     "stars": 1036,
@@ -249,7 +249,7 @@
                 "open_issues": 35,
                 "owner": "apex-enterprise-patterns",
                 "repo": "fflib-apex-common",
-                "stars": 1012,
+                "stars": 1013,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
@@ -1299,10 +1299,10 @@
                 "language": "Objective-C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-09T16:54:29Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "forcedotcom",
                 "repo": "SalesforceMobileSDK-iOS",
-                "stars": 553,
+                "stars": 554,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
@@ -1320,10 +1320,10 @@
                 "language": "Kotlin",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-10T05:36:21Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "forcedotcom",
                 "repo": "SalesforceMobileSDK-Android",
-                "stars": 361,
+                "stars": 362,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
@@ -1359,7 +1359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T19:51:10.062Z",
+    "last_updated": "2026-10-14T17:59:46.776Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Salesforce Platform Resources",
