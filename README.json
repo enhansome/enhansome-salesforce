@@ -156,8 +156,8 @@
                     "id": 95021029,
                     "language": "TypeScript",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-16T15:32:30Z",
-                    "open_issues": 96,
+                    "last_commit": "2026-10-17T15:11:47Z",
+                    "open_issues": 97,
                     "owner": "forcedotcom",
                     "repo": "salesforcedx-vscode",
                     "stars": 1038,
@@ -1299,7 +1299,7 @@
                 "language": "Objective-C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-16T01:13:51Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "forcedotcom",
                 "repo": "SalesforceMobileSDK-iOS",
                 "stars": 554,
@@ -1319,7 +1319,7 @@
                 "id": 2782691,
                 "language": "Kotlin",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-15T20:43:16Z",
+                "last_commit": "2026-10-16T22:22:34Z",
                 "open_issues": 7,
                 "owner": "forcedotcom",
                 "repo": "SalesforceMobileSDK-Android",
@@ -1359,7 +1359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T17:22:38.472Z",
+    "last_updated": "2026-10-17T16:22:51.697Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Salesforce Platform Resources",
