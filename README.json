@@ -156,7 +156,7 @@
                     "id": 95021029,
                     "language": "TypeScript",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-17T15:11:47Z",
+                    "last_commit": "2026-10-18T04:04:46Z",
                     "open_issues": 97,
                     "owner": "forcedotcom",
                     "repo": "salesforcedx-vscode",
@@ -1359,7 +1359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T16:22:51.697Z",
+    "last_updated": "2026-10-18T16:30:18.909Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Salesforce Platform Resources",
@@ -1368,7 +1368,7 @@
       "language": null,
       "license": null,
       "last_commit": "2023-07-20T13:55:57Z",
-      "open_issues": 9,
+      "open_issues": 10,
       "owner": "mailtoharshit",
       "repo": "awesome-salesforce",
       "stars": 807,
