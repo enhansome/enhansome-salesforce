@@ -37,7 +37,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2020-04-21T11:46:29Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "mailtoharshit",
             "repo": "awesome-browser-extensions-for-salesforce",
             "stars": 57,
@@ -156,8 +156,8 @@
                     "id": 95021029,
                     "language": "TypeScript",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-26T18:21:06Z",
-                    "open_issues": 98,
+                    "last_commit": "2026-10-27T18:07:31Z",
+                    "open_issues": 97,
                     "owner": "forcedotcom",
                     "repo": "salesforcedx-vscode",
                     "stars": 1038,
@@ -1270,7 +1270,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2020-04-21T11:46:29Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "mailtoharshit",
             "repo": "awesome-browser-extensions-for-salesforce",
             "stars": 57,
@@ -1323,7 +1323,7 @@
                 "open_issues": 5,
                 "owner": "forcedotcom",
                 "repo": "SalesforceMobileSDK-Android",
-                "stars": 362,
+                "stars": 361,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
@@ -1359,7 +1359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T19:15:07.136Z",
+    "last_updated": "2026-10-27T18:40:17.016Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Salesforce Platform Resources",
