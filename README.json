@@ -102,7 +102,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2022-03-30T05:08:25Z",
-                "open_issues": 24,
+                "open_issues": 21,
                 "owner": "xjsender",
                 "repo": "haoide",
                 "stars": 197,
@@ -156,11 +156,11 @@
                     "id": 95021029,
                     "language": "TypeScript",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-27T18:07:31Z",
-                    "open_issues": 97,
+                    "last_commit": "2026-10-28T18:35:20Z",
+                    "open_issues": 100,
                     "owner": "forcedotcom",
                     "repo": "salesforcedx-vscode",
-                    "stars": 1038,
+                    "stars": 1039,
                     "topics": [
                       "apex",
                       "lightning",
@@ -707,7 +707,7 @@
                 "open_issues": 1,
                 "owner": "forceworkbench",
                 "repo": "forceworkbench",
-                "stars": 539,
+                "stars": 540,
                 "topics": [
                   "salesforce"
                 ]
@@ -1299,7 +1299,7 @@
                 "language": "Objective-C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-26T18:49:16Z",
-                "open_issues": 7,
+                "open_issues": 9,
                 "owner": "forcedotcom",
                 "repo": "SalesforceMobileSDK-iOS",
                 "stars": 553,
@@ -1359,7 +1359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T18:40:17.016Z",
+    "last_updated": "2026-10-28T18:49:47.030Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Salesforce Platform Resources",
