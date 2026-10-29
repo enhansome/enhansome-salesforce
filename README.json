@@ -156,8 +156,8 @@
                     "id": 95021029,
                     "language": "TypeScript",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-28T18:35:20Z",
-                    "open_issues": 100,
+                    "last_commit": "2026-10-29T17:18:15Z",
+                    "open_issues": 98,
                     "owner": "forcedotcom",
                     "repo": "salesforcedx-vscode",
                     "stars": 1039,
@@ -245,11 +245,11 @@
                 "id": 12408168,
                 "language": "Apex",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-22T07:12:44Z",
+                "last_commit": "2026-10-29T13:01:52Z",
                 "open_issues": 34,
                 "owner": "apex-enterprise-patterns",
                 "repo": "fflib-apex-common",
-                "stars": 1014,
+                "stars": 1015,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
@@ -1359,7 +1359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T18:49:47.030Z",
+    "last_updated": "2026-10-29T18:56:19.900Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Salesforce Platform Resources",
