@@ -156,8 +156,8 @@
                     "id": 95021029,
                     "language": "TypeScript",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-11-01T04:04:00Z",
-                    "open_issues": 104,
+                    "last_commit": "2026-11-02T19:36:09Z",
+                    "open_issues": 98,
                     "owner": "forcedotcom",
                     "repo": "salesforcedx-vscode",
                     "stars": 1040,
@@ -245,11 +245,11 @@
                 "id": 12408168,
                 "language": "Apex",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-31T04:42:13Z",
-                "open_issues": 34,
+                "last_commit": "2026-11-02T20:25:02Z",
+                "open_issues": 33,
                 "owner": "apex-enterprise-patterns",
                 "repo": "fflib-apex-common",
-                "stars": 1015,
+                "stars": 1016,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
@@ -334,11 +334,11 @@
                 "id": 12540485,
                 "language": "Apex",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-01T14:35:17Z",
-                "open_issues": 12,
+                "last_commit": "2026-11-02T22:00:08Z",
+                "open_issues": 11,
                 "owner": "apex-enterprise-patterns",
                 "repo": "fflib-apex-common-samplecode",
-                "stars": 220,
+                "stars": 221,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
@@ -1212,10 +1212,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-05-01T06:27:21Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "pawl",
             "repo": "awesome-etl",
-            "stars": 3600,
+            "stars": 3601,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1298,7 +1298,7 @@
                 "id": 2338086,
                 "language": "Objective-C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-26T18:49:16Z",
+                "last_commit": "2026-11-02T21:50:24Z",
                 "open_issues": 9,
                 "owner": "forcedotcom",
                 "repo": "SalesforceMobileSDK-iOS",
@@ -1359,7 +1359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T18:24:25.741Z",
+    "last_updated": "2026-11-02T22:17:52.992Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Salesforce Platform Resources",
