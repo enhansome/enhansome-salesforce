@@ -156,8 +156,8 @@
                     "id": 95021029,
                     "language": "TypeScript",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-11-05T20:37:41Z",
-                    "open_issues": 95,
+                    "last_commit": "2026-11-06T19:51:31Z",
+                    "open_issues": 96,
                     "owner": "forcedotcom",
                     "repo": "salesforcedx-vscode",
                     "stars": 1040,
@@ -245,8 +245,8 @@
                 "id": 12408168,
                 "language": "Apex",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-03T09:02:40Z",
-                "open_issues": 35,
+                "last_commit": "2026-11-06T00:30:02Z",
+                "open_issues": 34,
                 "owner": "apex-enterprise-patterns",
                 "repo": "fflib-apex-common",
                 "stars": 1016,
@@ -338,7 +338,7 @@
                 "open_issues": 10,
                 "owner": "apex-enterprise-patterns",
                 "repo": "fflib-apex-common-samplecode",
-                "stars": 221,
+                "stars": 220,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
@@ -874,7 +874,7 @@
                 "open_issues": 4,
                 "owner": "forcedotcom",
                 "repo": "Salesforce1-Dev-Guide-Setup-Package",
-                "stars": 42,
+                "stars": 43,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:01:10.738Z"
@@ -1299,7 +1299,7 @@
                 "language": "Objective-C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-04T23:42:51Z",
-                "open_issues": 7,
+                "open_issues": 9,
                 "owner": "forcedotcom",
                 "repo": "SalesforceMobileSDK-iOS",
                 "stars": 553,
@@ -1320,7 +1320,7 @@
                 "language": "Kotlin",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-03T21:06:41Z",
-                "open_issues": 5,
+                "open_issues": 7,
                 "owner": "forcedotcom",
                 "repo": "SalesforceMobileSDK-Android",
                 "stars": 361,
@@ -1359,7 +1359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T20:38:05.127Z",
+    "last_updated": "2026-11-06T19:56:18.496Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Salesforce Platform Resources",
