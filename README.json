@@ -102,7 +102,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2022-03-30T05:08:25Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "xjsender",
                 "repo": "haoide",
                 "stars": 197,
@@ -156,8 +156,8 @@
                     "id": 95021029,
                     "language": "TypeScript",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-11-24T22:59:07Z",
-                    "open_issues": 108,
+                    "last_commit": "2026-11-25T22:10:58Z",
+                    "open_issues": 104,
                     "owner": "forcedotcom",
                     "repo": "salesforcedx-vscode",
                     "stars": 1042,
@@ -1320,7 +1320,7 @@
                 "language": "Kotlin",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-24T15:25:32Z",
-                "open_issues": 8,
+                "open_issues": 7,
                 "owner": "forcedotcom",
                 "repo": "SalesforceMobileSDK-Android",
                 "stars": 360,
@@ -1359,7 +1359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T22:59:44.630Z",
+    "last_updated": "2026-11-25T22:28:16.669Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Salesforce Platform Resources",
@@ -1371,7 +1371,7 @@
       "open_issues": 13,
       "owner": "mailtoharshit",
       "repo": "awesome-salesforce",
-      "stars": 811,
+      "stars": 810,
       "topics": []
     },
     "original_repository_sha": "951c3c9b661e5f64a24ca941d41c9d9176bc0f26",
